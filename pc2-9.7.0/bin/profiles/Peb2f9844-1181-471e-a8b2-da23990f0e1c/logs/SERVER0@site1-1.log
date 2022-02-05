@@ -1,0 +1,67 @@
+220111 234731.873|CONFIG|AWT-EventQueue-0|setFileHandlers|Now logging to D:\pc2-9.7.0-6181\pc2-9.7.0\bin\profiles\Peb2f9844-1181-471e-a8b2-da23990f0e1c\logs directory.
+220111 234731.873|INFO|AWT-EventQueue-0|info|
+220111 234731.874|INFO|AWT-EventQueue-0|info|Version 9.7.0 20210317 (Wednesday, March 17th 2021 06:30 UTC) Java ver 1.8.0_311 build 6181 Windows 10 10.0 (amd64) 
+220111 234731.874|INFO|AWT-EventQueue-0|info|Login: server0 (aka server0)
+220111 234731.874|INFO|AWT-EventQueue-0|startLog|Working directory is D:\pc2-9.7.0-6181\pc2-9.7.0\bin
+220111 234731.875|INFO|AWT-EventQueue-0|startLog|Process id is 3224@DESKTOP-A2FRFRN
+220111 234731.876|INFO|AWT-EventQueue-0|info|Attempting to load UI class edu.csus.ecs.pc2.ui.server.ServerView
+220111 234731.930|INFO|AWT-EventQueue-0|info|Loaded UI class edu.csus.ecs.pc2.ui.server.ServerView
+220111 234732.231|FINER|AWT-EventQueue-0|info|FrameUtilities.loadAndVerifyImageFile(): searching for image file 'images/PC2Logo.png' in jar files
+220111 234732.232|FINER|AWT-EventQueue-0|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/PC2Logo.png' at URL 'jar:file:/D:/pc2-9.7.0-6181/pc2-9.7.0/lib/pc2.jar!/images/PC2Logo.png'
+220111 234732.232|FINER|AWT-EventQueue-0|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/PC2Logo.png'; verifying checksum
+220111 234732.409|INFO|AWT-EventQueue-0|info|Using Profile: Default @ profiles\Peb2f9844-1181-471e-a8b2-da23990f0e1c
+220111 234934.584|INFO|AWT-EventQueue-0|promptAndExit|Reports Generated to profiles\Peb2f9844-1181-471e-a8b2-da23990f0e1c\reports
+220111 234934.584|INFO|AWT-EventQueue-0|promptAndExit|Server 1 halted
+220111 235226.326|CONFIG|AWT-EventQueue-0|setFileHandlers|Now logging to D:\pc2-9.7.0-6181\pc2-9.7.0\bin\profiles\Peb2f9844-1181-471e-a8b2-da23990f0e1c\logs directory.
+220111 235226.327|INFO|AWT-EventQueue-0|info|
+220111 235226.327|INFO|AWT-EventQueue-0|info|Version 9.7.0 20210317 (Wednesday, March 17th 2021 06:30 UTC) Java ver 1.8.0_311 build 6181 Windows 10 10.0 (amd64) 
+220111 235226.327|INFO|AWT-EventQueue-0|info|Login: site1 (aka server0)
+220111 235226.327|INFO|AWT-EventQueue-0|startLog|Working directory is D:\pc2-9.7.0-6181\pc2-9.7.0\bin
+220111 235226.328|INFO|AWT-EventQueue-0|startLog|Process id is 6040@DESKTOP-A2FRFRN
+220111 235226.328|DEBUG|AWT-EventQueue-0|login|Site Number is set as 1 (0 means unset)
+220111 235226.334|INFO|AWT-EventQueue-0|loadFromDisk|Loading site number 1
+220111 235226.335|INFO|AWT-EventQueue-0|loadFromDisk|Loaded 0 languages
+220111 235226.335|INFO|AWT-EventQueue-0|loadFromDisk|Loaded 0 problems
+220111 235226.335|INFO|AWT-EventQueue-0|loadFromDisk|Loaded 1 contest_time_list
+220111 235226.335|INFO|AWT-EventQueue-0|loadFromDisk|Loaded 2 accounts
+220111 235226.336|INFO|AWT-EventQueue-0|loadFromDisk|Loaded 8 judgements
+220111 235226.336|INFO|AWT-EventQueue-0|loadSomeSettings|Loaded 0 balloon_settings_list
+220111 235226.336|INFO|AWT-EventQueue-0|loadSomeSettings|Loaded contest_time
+220111 235226.336|INFO|AWT-EventQueue-0|loadSomeSettings|Loaded general_problem
+220111 235226.336|INFO|AWT-EventQueue-0|loadSomeSettings|Loaded 1 profiles
+220111 235226.336|INFO|AWT-EventQueue-0|loadSomeSettings|Loaded 0 categories
+220111 235226.336|INFO|AWT-EventQueue-0|loadSomeSettings|Loaded profile
+220111 235226.337|INFO|AWT-EventQueue-0|loadSomeSettings|Loaded 1 sites
+220111 235226.337|INFO|AWT-EventQueue-0|loadSomeSettings|Loaded Contest Information Programming Contest
+220111 235226.337|INFO|AWT-EventQueue-0|loadSomeSettings|Loaded 0 client_settings_list
+220111 235226.337|INFO|AWT-EventQueue-0|loadSomeSettings|Loaded 0 groups
+220111 235226.337|INFO|AWT-EventQueue-0|info|Loaded configuration from disk
+220111 235226.350|INFO|AWT-EventQueue-0|updateAutoStartInformation|updated AutoStarter with date null (note: null means no scheduled start is set)
+220111 235226.351|FINER|AWT-EventQueue-0|info|Login not successful: Does not match first site password
+220111 235923.133|CONFIG|AWT-EventQueue-0|setFileHandlers|Now logging to D:\pc2-9.7.0-6181\pc2-9.7.0\bin\profiles\Peb2f9844-1181-471e-a8b2-da23990f0e1c\logs directory.
+220111 235923.134|INFO|AWT-EventQueue-0|info|
+220111 235923.134|INFO|AWT-EventQueue-0|info|Version 9.7.0 20210317 (Wednesday, March 17th 2021 06:30 UTC) Java ver 1.8.0_311 build 6181 Windows 10 10.0 (amd64) 
+220111 235923.134|INFO|AWT-EventQueue-0|info|Login: server0 (aka server0)
+220111 235923.135|INFO|AWT-EventQueue-0|startLog|Working directory is D:\pc2-9.7.0-6181\pc2-9.7.0\bin
+220111 235923.135|INFO|AWT-EventQueue-0|startLog|Process id is 7092@DESKTOP-A2FRFRN
+220111 235923.136|INFO|AWT-EventQueue-0|info|Attempting to load UI class edu.csus.ecs.pc2.ui.server.ServerView
+220111 235923.175|INFO|AWT-EventQueue-0|info|Loaded UI class edu.csus.ecs.pc2.ui.server.ServerView
+220111 235923.371|FINER|AWT-EventQueue-0|info|FrameUtilities.loadAndVerifyImageFile(): searching for image file 'images/PC2Logo.png' in jar files
+220111 235923.371|FINER|AWT-EventQueue-0|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/PC2Logo.png' at URL 'jar:file:/D:/pc2-9.7.0-6181/pc2-9.7.0/lib/pc2.jar!/images/PC2Logo.png'
+220111 235923.372|FINER|AWT-EventQueue-0|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/PC2Logo.png'; verifying checksum
+220111 235923.488|INFO|AWT-EventQueue-0|info|Using Profile: Default @ profiles\Peb2f9844-1181-471e-a8b2-da23990f0e1c
+220201 215607.800|CONFIG|AWT-EventQueue-0|setFileHandlers|Now logging to D:\pc2-9.7.0-6181\pc2-9.7.0\bin\profiles\Peb2f9844-1181-471e-a8b2-da23990f0e1c\logs directory.
+220201 215607.801|INFO|AWT-EventQueue-0|info|
+220201 215607.801|INFO|AWT-EventQueue-0|info|Version 9.7.0 20210317 (Wednesday, March 17th 2021 06:30 UTC) Java ver 1.8.0_311 build 6181 Windows 10 10.0 (amd64) 
+220201 215607.801|INFO|AWT-EventQueue-0|info|Login: server0 (aka server0)
+220201 215607.801|INFO|AWT-EventQueue-0|startLog|Working directory is D:\pc2-9.7.0-6181\pc2-9.7.0\bin
+220201 215607.802|INFO|AWT-EventQueue-0|startLog|Process id is 9576@DESKTOP-A2FRFRN
+220201 215607.803|INFO|AWT-EventQueue-0|info|Attempting to load UI class edu.csus.ecs.pc2.ui.server.ServerView
+220201 215607.843|INFO|AWT-EventQueue-0|info|Loaded UI class edu.csus.ecs.pc2.ui.server.ServerView
+220201 215608.064|FINER|AWT-EventQueue-0|info|FrameUtilities.loadAndVerifyImageFile(): searching for image file 'images/PC2Logo.png' in jar files
+220201 215608.064|FINER|AWT-EventQueue-0|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/PC2Logo.png' at URL 'jar:file:/D:/pc2-9.7.0-6181/pc2-9.7.0/lib/pc2.jar!/images/PC2Logo.png'
+220201 215608.065|FINER|AWT-EventQueue-0|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/PC2Logo.png'; verifying checksum
+220201 215608.189|INFO|AWT-EventQueue-0|info|Using Profile: Default @ profiles\Peb2f9844-1181-471e-a8b2-da23990f0e1c
+220201 220527.221|INFO|Thread-5|info|connectionEstablished: Socket[addr=/127.0.0.1,port=57407,localport=50002]--3471302268880557581
+220201 221049.263|INFO|AWT-EventQueue-0|promptAndExit|Reports Generated to profiles\Peb2f9844-1181-471e-a8b2-da23990f0e1c\reports
+220201 221049.264|INFO|AWT-EventQueue-0|promptAndExit|Server 1 halted

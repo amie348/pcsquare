@@ -1,0 +1,184 @@
+CSUS Programming Contest Control System
+Date: Tuesday, February 1, 2022 10:10:49 PM PKT
+Version 9.7.0 20210317 (Wednesday, March 17th 2021 06:30 UTC) Java ver 1.8.0_311 build 6181 Windows 10 10.0 (amd64) 
+
+ICPC Tools Event Feed Report
+-- Start Event Feed XML --
+<contest>
+  <info>
+    <length>5:00:00</length>
+    <penalty>20</penalty>
+    <started>False</started>
+    <running>False</running>
+    <starttime>undefined</starttime>
+    <title>Programming Contest</title>
+    <short-title>Programming Contest</short-title>
+    <contest-id>default--4957759304671347839</contest-id>
+    <scoreboard-freeze-length>01:00:00</scoreboard-freeze-length>
+  </info>
+  <judgement>
+    <acronym>AC</acronym>
+    <id>1</id>
+    <name>Yes</name>
+  </judgement>
+  <judgement>
+    <acronym>CE</acronym>
+    <id>2</id>
+    <name>No - Compilation Error</name>
+  </judgement>
+  <judgement>
+    <acronym>RTE</acronym>
+    <id>3</id>
+    <name>No - Run-time Error</name>
+  </judgement>
+  <judgement>
+    <acronym>TLE</acronym>
+    <id>4</id>
+    <name>No - Time Limit Exceeded</name>
+  </judgement>
+  <judgement>
+    <acronym>WA</acronym>
+    <id>5</id>
+    <name>No - Wrong Answer</name>
+  </judgement>
+  <judgement>
+    <acronym>EO</acronym>
+    <id>6</id>
+    <name>No - Excessive Output</name>
+  </judgement>
+  <judgement>
+    <acronym>OFE</acronym>
+    <id>7</id>
+    <name>No - Output Format Error</name>
+  </judgement>
+  <judgement>
+    <acronym>JE</acronym>
+    <id>8</id>
+    <name>No - Other - Contact Staff</name>
+  </judgement>
+  <judgement>
+    <acronym>AC</acronym>
+    <id>9</id>
+    <name>Yes</name>
+  </judgement>
+  <judgement>
+    <acronym>CE</acronym>
+    <id>10</id>
+    <name>No - Compilation Error</name>
+  </judgement>
+  <judgement>
+    <acronym>RTE</acronym>
+    <id>11</id>
+    <name>No - Run-time Error</name>
+  </judgement>
+  <judgement>
+    <acronym>TLE</acronym>
+    <id>12</id>
+    <name>No - Time Limit Exceeded</name>
+  </judgement>
+  <judgement>
+    <acronym>WA</acronym>
+    <id>13</id>
+    <name>No - Wrong Answer</name>
+  </judgement>
+  <judgement>
+    <acronym>EO</acronym>
+    <id>14</id>
+    <name>No - Excessive Output</name>
+  </judgement>
+  <judgement>
+    <acronym>OFE</acronym>
+    <id>15</id>
+    <name>No - Output Format Error</name>
+  </judgement>
+  <judgement>
+    <acronym>JE</acronym>
+    <id>16</id>
+    <name>No - Other - Contact Staff</name>
+  </judgement>
+  <judgement>
+    <acronym>AC</acronym>
+    <id>17</id>
+    <name>Yes</name>
+  </judgement>
+  <judgement>
+    <acronym>CE</acronym>
+    <id>18</id>
+    <name>No - Compilation Error</name>
+  </judgement>
+  <judgement>
+    <acronym>RTE</acronym>
+    <id>19</id>
+    <name>No - Run-time Error</name>
+  </judgement>
+  <judgement>
+    <acronym>TLE</acronym>
+    <id>20</id>
+    <name>No - Time Limit Exceeded</name>
+  </judgement>
+  <judgement>
+    <acronym>WA</acronym>
+    <id>21</id>
+    <name>No - Wrong Answer</name>
+  </judgement>
+  <judgement>
+    <acronym>EO</acronym>
+    <id>22</id>
+    <name>No - Excessive Output</name>
+  </judgement>
+  <judgement>
+    <acronym>OFE</acronym>
+    <id>23</id>
+    <name>No - Output Format Error</name>
+  </judgement>
+  <judgement>
+    <acronym>JE</acronym>
+    <id>24</id>
+    <name>No - Other - Contact Staff</name>
+  </judgement>
+  <judgement>
+    <acronym>AC</acronym>
+    <id>25</id>
+    <name>Yes</name>
+  </judgement>
+  <judgement>
+    <acronym>CE</acronym>
+    <id>26</id>
+    <name>No - Compilation Error</name>
+  </judgement>
+  <judgement>
+    <acronym>RTE</acronym>
+    <id>27</id>
+    <name>No - Run-time Error</name>
+  </judgement>
+  <judgement>
+    <acronym>TLE</acronym>
+    <id>28</id>
+    <name>No - Time Limit Exceeded</name>
+  </judgement>
+  <judgement>
+    <acronym>WA</acronym>
+    <id>29</id>
+    <name>No - Wrong Answer</name>
+  </judgement>
+  <judgement>
+    <acronym>EO</acronym>
+    <id>30</id>
+    <name>No - Excessive Output</name>
+  </judgement>
+  <judgement>
+    <acronym>OFE</acronym>
+    <id>31</id>
+    <name>No - Output Format Error</name>
+  </judgement>
+  <judgement>
+    <acronym>JE</acronym>
+    <id>32</id>
+    <name>No - Other - Contact Staff</name>
+  </judgement>
+</contest>
+
+
+-- End Event Feed XML --
+
+end report

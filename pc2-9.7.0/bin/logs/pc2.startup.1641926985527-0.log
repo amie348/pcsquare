@@ -1,0 +1,29 @@
+220111 234945.622|CONFIG|main|setFileHandlers|Now logging to D:\pc2-9.7.0-6181\pc2-9.7.0\bin\logs directory.
+220111 234945.624|INFO|main|info|
+220111 234945.629|INFO|main|info|Version 9.7.0 20210317 (Wednesday, March 17th 2021 06:30 UTC) Java ver 1.8.0_311 build 6181 Windows 10 10.0 (amd64) 
+220111 234945.629|INFO|main|startLog|Working directory is D:\pc2-9.7.0-6181\pc2-9.7.0\bin
+220111 234945.646|INFO|main|startLog|Process id is 6440@DESKTOP-A2FRFRN
+220111 234945.647|INFO|main|start|Starting ConnectionManager...
+220111 234945.977|INFO|main|start|Started ConnectionManager
+220111 234945.980|INFO|main|setClientServerAndPort|INIFile File location: file:/D:/pc2-9.7.0-6181/pc2-9.7.0/bin/pc2v9.ini
+220111 234945.981|INFO|main|setClientServerAndPort|setClientServerAndPort localhost parsed as localhost port 50002
+220111 234945.982|INFO|main|info|Contacting server at localhost:50002
+220111 234945.982|INFO|main|connectToMyServer|Connecting to localhost:50002
+220111 234948.037|INFO|main|<init>|IO Exception:localhost
+220111 234948.039|INFO|main|connectToMyServer|Could not ConnectToMyServer()
+220111 234948.040|INFO|main|start|Exception contacting my server 
+|edu.csus.ecs.pc2.core.transport.TransportException: Connection refused: connect
+|    at edu.csus.ecs.pc2.core.transport.TransportManager.connectToMyServer (TransportManager.java:198)
+|    at edu.csus.ecs.pc2.core.transport.connection.ConnectionManager.connectToMyServer (ConnectionManager.java:100)
+|    at edu.csus.ecs.pc2.core.InternalController.start (InternalController.java:3105)
+|    at edu.csus.ecs.pc2.Starter.main (Starter.java:50)
+220111 234948.041|INFO|main|info|Unable to contact server at localhost:0 Connection refused: connect
+220111 234948.192|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): searching for image file 'images/PC2Logo.png' in jar files
+220111 234948.193|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/PC2Logo.png' at URL 'jar:file:/D:/pc2-9.7.0-6181/pc2-9.7.0/lib/pc2.jar!/images/PC2Logo.png'
+220111 234948.194|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/PC2Logo.png'; verifying checksum
+220111 234948.609|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): searching for image file 'images/csus_logo.png' in jar files
+220111 234948.609|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/csus_logo.png' at URL 'jar:file:/D:/pc2-9.7.0-6181/pc2-9.7.0/lib/pc2.jar!/images/csus_logo.png'
+220111 234948.609|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/csus_logo.png'; verifying checksum
+220111 234948.614|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): searching for image file 'images/ICPCWebMast_small.png' in jar files
+220111 234948.615|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/ICPCWebMast_small.png' at URL 'jar:file:/D:/pc2-9.7.0-6181/pc2-9.7.0/lib/pc2.jar!/images/ICPCWebMast_small.png'
+220111 234948.615|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/ICPCWebMast_small.png'; verifying checksum

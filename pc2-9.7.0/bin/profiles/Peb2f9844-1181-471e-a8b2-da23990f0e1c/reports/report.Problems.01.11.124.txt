@@ -1,0 +1,18 @@
+CSUS Programming Contest Control System
+Date: Tuesday, January 11, 2022 11:49:34 PM PKT
+Version 9.7.0 20210317 (Wednesday, March 17th 2021 06:30 UTC) Java ver 1.8.0_311 build 6181 Windows 10 10.0 (amd64) 
+
+Problems Report
+
+Contest date/time: never started
+
+-- 0 problems --
+
+  Location for Judges CDP / problem config : ''
+  Location for  Admin CDP / problem config : ''
+
+-- 0 problem data file sets --
+ Categories:
+  General
+
+end report

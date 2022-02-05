@@ -1,0 +1,89 @@
+220111 225919.283|CONFIG|main|setFileHandlers|Now logging to D:\pc2-9.7.0-6181\pc2-9.7.0\bin\logs directory.
+220111 225919.285|INFO|main|info|
+220111 225919.296|INFO|main|info|Version 9.7.0 20210317 (Wednesday, March 17th 2021 06:30 UTC) Java ver 1.8.0_311 build 6181 Windows 10 10.0 (amd64) 
+220111 225919.296|INFO|main|startLog|Working directory is D:\pc2-9.7.0-6181\pc2-9.7.0\bin
+220111 225919.340|INFO|main|startLog|Process id is 8308@DESKTOP-A2FRFRN
+220111 225919.340|INFO|main|start|Starting ConnectionManager...
+220111 225919.882|INFO|main|start|Started ConnectionManager
+220111 225919.883|SEVERE|main|fatalError|Cannot start PC^2, pc2v9.ini file not found in D:\pc2-9.7.0-6181\pc2-9.7.0\bin
+220111 225919.883|INFO|main|fatalError|PC^2 halted
+220111 234452.964|CONFIG|main|setFileHandlers|Now logging to D:\pc2-9.7.0-6181\pc2-9.7.0\bin\logs directory.
+220111 234452.965|INFO|main|info|
+220111 234452.970|INFO|main|info|Version 9.7.0 20210317 (Wednesday, March 17th 2021 06:30 UTC) Java ver 1.8.0_311 build 6181 Windows 10 10.0 (amd64) 
+220111 234452.970|INFO|main|startLog|Working directory is D:\pc2-9.7.0-6181\pc2-9.7.0\bin
+220111 234452.988|INFO|main|startLog|Process id is 3224@DESKTOP-A2FRFRN
+220111 234452.988|INFO|main|start|Starting ConnectionManager...
+220111 234453.316|INFO|main|start|Started ConnectionManager
+220111 234453.320|INFO|main|info|Starting Server Transport...
+220111 235159.799|CONFIG|main|setFileHandlers|Now logging to D:\pc2-9.7.0-6181\pc2-9.7.0\bin\logs directory.
+220111 235159.801|INFO|main|info|
+220111 235159.806|INFO|main|info|Version 9.7.0 20210317 (Wednesday, March 17th 2021 06:30 UTC) Java ver 1.8.0_311 build 6181 Windows 10 10.0 (amd64) 
+220111 235159.807|INFO|main|startLog|Working directory is D:\pc2-9.7.0-6181\pc2-9.7.0\bin
+220111 235159.825|INFO|main|startLog|Process id is 6040@DESKTOP-A2FRFRN
+220111 235159.826|INFO|main|start|Starting ConnectionManager...
+220111 235200.169|INFO|main|start|Started ConnectionManager
+220111 235200.172|INFO|main|info|Starting Server Transport...
+220111 235844.731|CONFIG|main|setFileHandlers|Now logging to D:\pc2-9.7.0-6181\pc2-9.7.0\bin\logs directory.
+220111 235844.732|INFO|main|info|
+220111 235844.737|INFO|main|info|Version 9.7.0 20210317 (Wednesday, March 17th 2021 06:30 UTC) Java ver 1.8.0_311 build 6181 Windows 10 10.0 (amd64) 
+220111 235844.737|INFO|main|startLog|Working directory is D:\pc2-9.7.0-6181\pc2-9.7.0\bin
+220111 235844.754|INFO|main|startLog|Process id is 7092@DESKTOP-A2FRFRN
+220111 235844.755|INFO|main|start|Starting ConnectionManager...
+220111 235845.081|INFO|main|start|Started ConnectionManager
+220111 235845.085|INFO|main|info|Starting Server Transport...
+220131 223141.279|CONFIG|main|setFileHandlers|Now logging to D:\pc2-9.7.0-6181\pc2-9.7.0\bin\logs directory.
+220131 223141.281|INFO|main|info|
+220131 223141.290|INFO|main|info|Version 9.7.0 20210317 (Wednesday, March 17th 2021 06:30 UTC) Java ver 1.8.0_311 build 6181 Windows 10 10.0 (amd64) 
+220131 223141.291|INFO|main|startLog|Working directory is D:\pc2-9.7.0-6181\pc2-9.7.0\bin
+220131 223141.319|INFO|main|startLog|Process id is 7720@DESKTOP-A2FRFRN
+220131 223141.320|INFO|main|start|Starting ConnectionManager...
+220131 223141.790|INFO|main|start|Started ConnectionManager
+220131 223141.800|INFO|main|info|Starting Server Transport...
+220131 224044.331|CONFIG|main|setFileHandlers|Now logging to D:\pc2-9.7.0-6181\pc2-9.7.0\bin\logs directory.
+220131 224044.332|INFO|main|info|
+220131 224044.337|INFO|main|info|Version 9.7.0 20210317 (Wednesday, March 17th 2021 06:30 UTC) Java ver 1.8.0_311 build 6181 Windows 10 10.0 (amd64) 
+220131 224044.337|INFO|main|startLog|Working directory is D:\pc2-9.7.0-6181\pc2-9.7.0\bin
+220131 224044.356|INFO|main|startLog|Process id is 2404@DESKTOP-A2FRFRN
+220131 224044.357|INFO|main|start|Starting ConnectionManager...
+220131 224044.676|INFO|main|start|Started ConnectionManager
+220131 224044.678|INFO|main|info|Starting Server Transport...
+220131 230519.589|CONFIG|main|setFileHandlers|Now logging to D:\pc2-9.7.0-6181\pc2-9.7.0\bin\logs directory.
+220131 230519.591|INFO|main|info|
+220131 230519.595|INFO|main|info|Version 9.7.0 20210317 (Wednesday, March 17th 2021 06:30 UTC) Java ver 1.8.0_311 build 6181 Windows 10 10.0 (amd64) 
+220131 230519.596|INFO|main|startLog|Working directory is D:\pc2-9.7.0-6181\pc2-9.7.0\bin
+220131 230519.613|INFO|main|startLog|Process id is 7668@DESKTOP-A2FRFRN
+220131 230519.613|INFO|main|start|Starting ConnectionManager...
+220131 230519.923|INFO|main|start|Started ConnectionManager
+220131 230519.926|INFO|main|info|Starting Server Transport...
+220201 215248.445|CONFIG|main|setFileHandlers|Now logging to D:\pc2-9.7.0-6181\pc2-9.7.0\bin\logs directory.
+220201 215248.446|INFO|main|info|
+220201 215248.451|INFO|main|info|Version 9.7.0 20210317 (Wednesday, March 17th 2021 06:30 UTC) Java ver 1.8.0_311 build 6181 Windows 10 10.0 (amd64) 
+220201 215248.451|INFO|main|startLog|Working directory is D:\pc2-9.7.0-6181\pc2-9.7.0\bin
+220201 215248.468|INFO|main|startLog|Process id is 8564@DESKTOP-A2FRFRN
+220201 215248.469|INFO|main|start|Starting ConnectionManager...
+220201 215248.777|INFO|main|start|Started ConnectionManager
+220201 215248.787|INFO|main|info|Starting Server Transport...
+220201 215455.408|CONFIG|main|setFileHandlers|Now logging to D:\pc2-9.7.0-6181\pc2-9.7.0\bin\logs directory.
+220201 215455.409|INFO|main|info|
+220201 215455.414|INFO|main|info|Version 9.7.0 20210317 (Wednesday, March 17th 2021 06:30 UTC) Java ver 1.8.0_311 build 6181 Windows 10 10.0 (amd64) 
+220201 215455.414|INFO|main|startLog|Working directory is D:\pc2-9.7.0-6181\pc2-9.7.0\bin
+220201 215455.431|INFO|main|startLog|Process id is 9576@DESKTOP-A2FRFRN
+220201 215455.431|INFO|main|start|Starting ConnectionManager...
+220201 215455.741|INFO|main|start|Started ConnectionManager
+220201 215455.743|INFO|main|info|Starting Server Transport...
+220202 225301.503|CONFIG|main|setFileHandlers|Now logging to D:\pc2-9.7.0-6181\pc2-9.7.0\bin\logs directory.
+220202 225301.506|INFO|main|info|
+220202 225301.515|INFO|main|info|Version 9.7.0 20210317 (Wednesday, March 17th 2021 06:30 UTC) Java ver 1.8.0_311 build 6181 Windows 10 10.0 (amd64) 
+220202 225301.516|INFO|main|startLog|Working directory is D:\pc2-9.7.0-6181\pc2-9.7.0\bin
+220202 225301.547|INFO|main|startLog|Process id is 8516@DESKTOP-A2FRFRN
+220202 225301.547|INFO|main|start|Starting ConnectionManager...
+220202 225301.950|INFO|main|start|Started ConnectionManager
+220202 225301.952|INFO|main|info|Starting Server Transport...
+220205 103559.541|CONFIG|main|setFileHandlers|Now logging to D:\pc2-9.7.0-6181\pc2-9.7.0\bin\logs directory.
+220205 103559.543|INFO|main|info|
+220205 103559.555|INFO|main|info|Version 9.7.0 20210317 (Wednesday, March 17th 2021 06:30 UTC) Java ver 1.8.0_311 build 6181 Windows 10 10.0 (amd64) 
+220205 103559.555|INFO|main|startLog|Working directory is D:\pc2-9.7.0-6181\pc2-9.7.0\bin
+220205 103559.587|INFO|main|startLog|Process id is 11788@DESKTOP-A2FRFRN
+220205 103559.587|INFO|main|start|Starting ConnectionManager...
+220205 103600.133|INFO|main|start|Started ConnectionManager
+220205 103600.135|INFO|main|info|Starting Server Transport...

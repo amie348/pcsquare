@@ -1,0 +1,24 @@
+220201 222800.300|CONFIG|AWT-EventQueue-0|setFileHandlers|Now logging to D:\pc2-9.7.0-6181\pc2-9.7.0\bin\logs directory.
+220201 222800.301|INFO|AWT-EventQueue-0|info|
+220201 222800.301|INFO|AWT-EventQueue-0|info|Version 9.7.0 20210317 (Wednesday, March 17th 2021 06:30 UTC) Java ver 1.8.0_311 build 6181 Windows 10 10.0 (amd64) 
+220201 222800.302|INFO|AWT-EventQueue-0|info|Login: teamxx (aka team0)
+220201 222800.302|INFO|AWT-EventQueue-0|startLog|Working directory is D:\pc2-9.7.0-6181\pc2-9.7.0\bin
+220201 222800.303|INFO|AWT-EventQueue-0|startLog|Process id is 10928@DESKTOP-A2FRFRN
+220201 222800.304|INFO|AWT-EventQueue-0|info|Contacting server at 192.168.247.135:50002 as TEAM0 @ site 0
+220201 222800.304|INFO|AWT-EventQueue-0|info|sendLoginRequest start - sending from TEAM0 @ site 0
+220201 222800.305|INFO|AWT-EventQueue-0|sendToLocalServer|Sending packet to server Packet[LOGIN_REQUEST] #2 TEAM0 @ site 0 -> SERVER0 @ site 0
+220201 222800.305|INFO|AWT-EventQueue-0|sendToLocalServer|Sent    packet to server Packet[LOGIN_REQUEST] #2 TEAM0 @ site 0 -> SERVER0 @ site 0
+220201 222800.305|INFO|AWT-EventQueue-0|info|sendLoginRequest end - packet sent.
+220201 222800.305|INFO|Thread-6|run|send(Serializable)
+220201 222800.529|INFO|Thread-1|receive|public void receive(SealedObject TransportPacket, ConnectionHandlerID connectionHandlerID)
+220201 222800.536|INFO|Thread-7|info| receiveObject(S) start got Packet[LOGIN_FAILED] #14 SERVER0 @ site 1 -> TEAM0 @ site 0
+220201 222800.537|INFO|Thread-7|dumpPacket|Packet LOGIN_FAILED (Seq #14, o#14 ) recieveObject
+220201 222800.538|INFO|Thread-7|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-D4I0OE9 @ 192.168.247.135) (Contest Id: Default--4957759304671347839)
+220201 222800.538|INFO|Thread-7|dumpPacket|    To: TEAM0 @ site 0
+220201 222800.539|INFO|Thread-7|dumpPacket|   key: MESSAGE_STRING is: java.lang.String No such account
+220201 222800.539|INFO|Thread-7|info|handlePacket start Packet[LOGIN_FAILED] #14 SERVER0 @ site 1 -> TEAM0 @ site 0
+220201 222800.540|INFO|Thread-7|dumpPacket|Packet LOGIN_FAILED (Seq #14, o#14 ) handlePacket
+220201 222800.540|INFO|Thread-7|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-D4I0OE9 @ 192.168.247.135) (Contest Id: Default--4957759304671347839)
+220201 222800.540|INFO|Thread-7|dumpPacket|    To: TEAM0 @ site 0
+220201 222800.541|INFO|Thread-7|dumpPacket|   key: MESSAGE_STRING is: java.lang.String No such account
+220201 222802.543|INFO|Thread-7|info| receiveObject(S) end   got Packet[LOGIN_FAILED] #14 SERVER0 @ site 1 -> TEAM0 @ site 0

@@ -1,0 +1,27 @@
+220111 235233.333|CONFIG|AWT-EventQueue-0|setFileHandlers|Now logging to D:\pc2-9.7.0-6181\pc2-9.7.0\bin\profiles\Peb2f9844-1181-471e-a8b2-da23990f0e1c\logs directory.
+220111 235233.334|INFO|AWT-EventQueue-0|info|
+220111 235233.334|INFO|AWT-EventQueue-0|info|Version 9.7.0 20210317 (Wednesday, March 17th 2021 06:30 UTC) Java ver 1.8.0_311 build 6181 Windows 10 10.0 (amd64) 
+220111 235233.334|INFO|AWT-EventQueue-0|info|Login: site1 (aka server0)
+220111 235233.335|INFO|AWT-EventQueue-0|startLog|Working directory is D:\pc2-9.7.0-6181\pc2-9.7.0\bin
+220111 235233.336|INFO|AWT-EventQueue-0|startLog|Process id is 6040@DESKTOP-A2FRFRN
+220111 235233.336|DEBUG|AWT-EventQueue-0|login|Site Number is set as 1 (0 means unset)
+220111 235233.345|INFO|AWT-EventQueue-0|loadFromDisk|Loading site number 1
+220111 235233.345|INFO|AWT-EventQueue-0|loadFromDisk|Loaded 0 languages
+220111 235233.345|INFO|AWT-EventQueue-0|loadFromDisk|Loaded 0 problems
+220111 235233.345|INFO|AWT-EventQueue-0|loadFromDisk|Loaded 1 contest_time_list
+220111 235233.346|INFO|AWT-EventQueue-0|loadFromDisk|Loaded 2 accounts
+220111 235233.346|INFO|AWT-EventQueue-0|loadFromDisk|Loaded 16 judgements
+220111 235233.346|INFO|AWT-EventQueue-0|loadSomeSettings|Loaded 0 balloon_settings_list
+220111 235233.346|INFO|AWT-EventQueue-0|loadSomeSettings|Loaded contest_time
+220111 235233.346|INFO|AWT-EventQueue-0|loadSomeSettings|Loaded general_problem
+220111 235233.347|INFO|AWT-EventQueue-0|loadSomeSettings|Loaded 1 profiles
+220111 235233.347|INFO|AWT-EventQueue-0|loadSomeSettings|Loaded 1 categories
+220111 235233.347|INFO|AWT-EventQueue-0|loadSomeSettings|Loaded profile
+220111 235233.347|INFO|AWT-EventQueue-0|loadSomeSettings|Loaded 1 sites
+220111 235233.348|INFO|AWT-EventQueue-0|loadSomeSettings|Loaded Contest Information Programming Contest
+220111 235233.348|INFO|AWT-EventQueue-0|loadSomeSettings|Loaded 0 client_settings_list
+220111 235233.348|INFO|AWT-EventQueue-0|loadSomeSettings|Loaded 0 groups
+220111 235233.349|INFO|AWT-EventQueue-0|info|Loaded configuration from disk
+220111 235233.361|INFO|AWT-EventQueue-0|updateAutoStartInformation|updated AutoStarter with date null (note: null means no scheduled start is set)
+220111 235233.361|INFO|AWT-EventQueue-0|accecptConnections|accecptConnections on port:50002
+220111 235233.370|INFO|AWT-EventQueue-0|info|Started Server Transport listening on 50002

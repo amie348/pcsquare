@@ -1,0 +1,128 @@
+220111 234453.336|CONFIG|main|setFileHandlers|Now logging to D:\pc2-9.7.0-6181\pc2-9.7.0\bin\profiles\Peb2f9844-1181-471e-a8b2-da23990f0e1c directory.
+220111 234453.336|INFO|main|info|
+220111 234453.337|INFO|main|info|Version 9.7.0 20210317 (Wednesday, March 17th 2021 06:30 UTC) Java ver 1.8.0_311 build 6181 Windows 10 10.0 (amd64) 
+220111 234453.337|INFO|main|startLog|Working directory is D:\pc2-9.7.0-6181\pc2-9.7.0\bin
+220111 234453.338|INFO|main|startLog|Process id is 3224@DESKTOP-A2FRFRN
+220111 234453.628|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): searching for image file 'images/PC2Logo.png' in jar files
+220111 234453.629|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/PC2Logo.png' at URL 'jar:file:/D:/pc2-9.7.0-6181/pc2-9.7.0/lib/pc2.jar!/images/PC2Logo.png'
+220111 234453.629|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/PC2Logo.png'; verifying checksum
+220111 234454.207|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): searching for image file 'images/csus_logo.png' in jar files
+220111 234454.207|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/csus_logo.png' at URL 'jar:file:/D:/pc2-9.7.0-6181/pc2-9.7.0/lib/pc2.jar!/images/csus_logo.png'
+220111 234454.208|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/csus_logo.png'; verifying checksum
+220111 234454.213|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): searching for image file 'images/ICPCWebMast_small.png' in jar files
+220111 234454.213|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/ICPCWebMast_small.png' at URL 'jar:file:/D:/pc2-9.7.0-6181/pc2-9.7.0/lib/pc2.jar!/images/ICPCWebMast_small.png'
+220111 234454.214|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/ICPCWebMast_small.png'; verifying checksum
+220111 235200.186|CONFIG|main|setFileHandlers|Now logging to D:\pc2-9.7.0-6181\pc2-9.7.0\bin\profiles\Peb2f9844-1181-471e-a8b2-da23990f0e1c directory.
+220111 235200.187|INFO|main|info|
+220111 235200.187|INFO|main|info|Version 9.7.0 20210317 (Wednesday, March 17th 2021 06:30 UTC) Java ver 1.8.0_311 build 6181 Windows 10 10.0 (amd64) 
+220111 235200.187|INFO|main|startLog|Working directory is D:\pc2-9.7.0-6181\pc2-9.7.0\bin
+220111 235200.188|INFO|main|startLog|Process id is 6040@DESKTOP-A2FRFRN
+220111 235200.311|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): searching for image file 'images/PC2Logo.png' in jar files
+220111 235200.311|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/PC2Logo.png' at URL 'jar:file:/D:/pc2-9.7.0-6181/pc2-9.7.0/lib/pc2.jar!/images/PC2Logo.png'
+220111 235200.311|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/PC2Logo.png'; verifying checksum
+220111 235200.748|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): searching for image file 'images/csus_logo.png' in jar files
+220111 235200.749|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/csus_logo.png' at URL 'jar:file:/D:/pc2-9.7.0-6181/pc2-9.7.0/lib/pc2.jar!/images/csus_logo.png'
+220111 235200.749|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/csus_logo.png'; verifying checksum
+220111 235200.754|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): searching for image file 'images/ICPCWebMast_small.png' in jar files
+220111 235200.755|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/ICPCWebMast_small.png' at URL 'jar:file:/D:/pc2-9.7.0-6181/pc2-9.7.0/lib/pc2.jar!/images/ICPCWebMast_small.png'
+220111 235200.755|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/ICPCWebMast_small.png'; verifying checksum
+220111 235208.780|FINER|AWT-EventQueue-0|info|Login not successful: No such account "SITE"
+220111 235845.098|CONFIG|main|setFileHandlers|Now logging to D:\pc2-9.7.0-6181\pc2-9.7.0\bin\profiles\Peb2f9844-1181-471e-a8b2-da23990f0e1c directory.
+220111 235845.098|INFO|main|info|
+220111 235845.098|INFO|main|info|Version 9.7.0 20210317 (Wednesday, March 17th 2021 06:30 UTC) Java ver 1.8.0_311 build 6181 Windows 10 10.0 (amd64) 
+220111 235845.099|INFO|main|startLog|Working directory is D:\pc2-9.7.0-6181\pc2-9.7.0\bin
+220111 235845.099|INFO|main|startLog|Process id is 7092@DESKTOP-A2FRFRN
+220111 235845.219|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): searching for image file 'images/PC2Logo.png' in jar files
+220111 235845.220|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/PC2Logo.png' at URL 'jar:file:/D:/pc2-9.7.0-6181/pc2-9.7.0/lib/pc2.jar!/images/PC2Logo.png'
+220111 235845.220|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/PC2Logo.png'; verifying checksum
+220111 235845.682|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): searching for image file 'images/csus_logo.png' in jar files
+220111 235845.682|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/csus_logo.png' at URL 'jar:file:/D:/pc2-9.7.0-6181/pc2-9.7.0/lib/pc2.jar!/images/csus_logo.png'
+220111 235845.682|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/csus_logo.png'; verifying checksum
+220111 235845.688|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): searching for image file 'images/ICPCWebMast_small.png' in jar files
+220111 235845.688|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/ICPCWebMast_small.png' at URL 'jar:file:/D:/pc2-9.7.0-6181/pc2-9.7.0/lib/pc2.jar!/images/ICPCWebMast_small.png'
+220111 235845.689|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/ICPCWebMast_small.png'; verifying checksum
+220131 223141.828|CONFIG|main|setFileHandlers|Now logging to D:\pc2-9.7.0-6181\pc2-9.7.0\bin\profiles\Peb2f9844-1181-471e-a8b2-da23990f0e1c directory.
+220131 223141.829|INFO|main|info|
+220131 223141.829|INFO|main|info|Version 9.7.0 20210317 (Wednesday, March 17th 2021 06:30 UTC) Java ver 1.8.0_311 build 6181 Windows 10 10.0 (amd64) 
+220131 223141.829|INFO|main|startLog|Working directory is D:\pc2-9.7.0-6181\pc2-9.7.0\bin
+220131 223141.830|INFO|main|startLog|Process id is 7720@DESKTOP-A2FRFRN
+220131 223141.990|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): searching for image file 'images/PC2Logo.png' in jar files
+220131 223141.990|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/PC2Logo.png' at URL 'jar:file:/D:/pc2-9.7.0-6181/pc2-9.7.0/lib/pc2.jar!/images/PC2Logo.png'
+220131 223141.991|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/PC2Logo.png'; verifying checksum
+220131 223142.474|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): searching for image file 'images/csus_logo.png' in jar files
+220131 223142.475|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/csus_logo.png' at URL 'jar:file:/D:/pc2-9.7.0-6181/pc2-9.7.0/lib/pc2.jar!/images/csus_logo.png'
+220131 223142.475|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/csus_logo.png'; verifying checksum
+220131 223142.481|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): searching for image file 'images/ICPCWebMast_small.png' in jar files
+220131 223142.481|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/ICPCWebMast_small.png' at URL 'jar:file:/D:/pc2-9.7.0-6181/pc2-9.7.0/lib/pc2.jar!/images/ICPCWebMast_small.png'
+220131 223142.481|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/ICPCWebMast_small.png'; verifying checksum
+220131 224044.689|CONFIG|main|setFileHandlers|Now logging to D:\pc2-9.7.0-6181\pc2-9.7.0\bin\profiles\Peb2f9844-1181-471e-a8b2-da23990f0e1c directory.
+220131 224044.689|INFO|main|info|
+220131 224044.689|INFO|main|info|Version 9.7.0 20210317 (Wednesday, March 17th 2021 06:30 UTC) Java ver 1.8.0_311 build 6181 Windows 10 10.0 (amd64) 
+220131 224044.690|INFO|main|startLog|Working directory is D:\pc2-9.7.0-6181\pc2-9.7.0\bin
+220131 224044.690|INFO|main|startLog|Process id is 2404@DESKTOP-A2FRFRN
+220131 224044.804|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): searching for image file 'images/PC2Logo.png' in jar files
+220131 224044.804|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/PC2Logo.png' at URL 'jar:file:/D:/pc2-9.7.0-6181/pc2-9.7.0/lib/pc2.jar!/images/PC2Logo.png'
+220131 224044.804|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/PC2Logo.png'; verifying checksum
+220131 224045.254|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): searching for image file 'images/csus_logo.png' in jar files
+220131 224045.255|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/csus_logo.png' at URL 'jar:file:/D:/pc2-9.7.0-6181/pc2-9.7.0/lib/pc2.jar!/images/csus_logo.png'
+220131 224045.255|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/csus_logo.png'; verifying checksum
+220131 224045.263|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): searching for image file 'images/ICPCWebMast_small.png' in jar files
+220131 224045.264|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/ICPCWebMast_small.png' at URL 'jar:file:/D:/pc2-9.7.0-6181/pc2-9.7.0/lib/pc2.jar!/images/ICPCWebMast_small.png'
+220131 224045.264|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/ICPCWebMast_small.png'; verifying checksum
+220131 230519.936|CONFIG|main|setFileHandlers|Now logging to D:\pc2-9.7.0-6181\pc2-9.7.0\bin\profiles\Peb2f9844-1181-471e-a8b2-da23990f0e1c directory.
+220131 230519.936|INFO|main|info|
+220131 230519.937|INFO|main|info|Version 9.7.0 20210317 (Wednesday, March 17th 2021 06:30 UTC) Java ver 1.8.0_311 build 6181 Windows 10 10.0 (amd64) 
+220131 230519.937|INFO|main|startLog|Working directory is D:\pc2-9.7.0-6181\pc2-9.7.0\bin
+220131 230519.938|INFO|main|startLog|Process id is 7668@DESKTOP-A2FRFRN
+220131 230520.063|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): searching for image file 'images/PC2Logo.png' in jar files
+220131 230520.063|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/PC2Logo.png' at URL 'jar:file:/D:/pc2-9.7.0-6181/pc2-9.7.0/lib/pc2.jar!/images/PC2Logo.png'
+220131 230520.063|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/PC2Logo.png'; verifying checksum
+220131 230520.474|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): searching for image file 'images/csus_logo.png' in jar files
+220131 230520.475|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/csus_logo.png' at URL 'jar:file:/D:/pc2-9.7.0-6181/pc2-9.7.0/lib/pc2.jar!/images/csus_logo.png'
+220131 230520.475|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/csus_logo.png'; verifying checksum
+220131 230520.483|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): searching for image file 'images/ICPCWebMast_small.png' in jar files
+220131 230520.484|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/ICPCWebMast_small.png' at URL 'jar:file:/D:/pc2-9.7.0-6181/pc2-9.7.0/lib/pc2.jar!/images/ICPCWebMast_small.png'
+220131 230520.484|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/ICPCWebMast_small.png'; verifying checksum
+220201 215248.803|CONFIG|main|setFileHandlers|Now logging to D:\pc2-9.7.0-6181\pc2-9.7.0\bin\profiles\Peb2f9844-1181-471e-a8b2-da23990f0e1c directory.
+220201 215248.803|INFO|main|info|
+220201 215248.804|INFO|main|info|Version 9.7.0 20210317 (Wednesday, March 17th 2021 06:30 UTC) Java ver 1.8.0_311 build 6181 Windows 10 10.0 (amd64) 
+220201 215248.804|INFO|main|startLog|Working directory is D:\pc2-9.7.0-6181\pc2-9.7.0\bin
+220201 215248.804|INFO|main|startLog|Process id is 8564@DESKTOP-A2FRFRN
+220201 215249.023|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): searching for image file 'images/PC2Logo.png' in jar files
+220201 215249.024|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/PC2Logo.png' at URL 'jar:file:/D:/pc2-9.7.0-6181/pc2-9.7.0/lib/pc2.jar!/images/PC2Logo.png'
+220201 215249.024|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/PC2Logo.png'; verifying checksum
+220201 215249.535|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): searching for image file 'images/csus_logo.png' in jar files
+220201 215249.536|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/csus_logo.png' at URL 'jar:file:/D:/pc2-9.7.0-6181/pc2-9.7.0/lib/pc2.jar!/images/csus_logo.png'
+220201 215249.536|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/csus_logo.png'; verifying checksum
+220201 215249.541|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): searching for image file 'images/ICPCWebMast_small.png' in jar files
+220201 215249.542|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/ICPCWebMast_small.png' at URL 'jar:file:/D:/pc2-9.7.0-6181/pc2-9.7.0/lib/pc2.jar!/images/ICPCWebMast_small.png'
+220201 215249.542|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/ICPCWebMast_small.png'; verifying checksum
+220201 215300.242|FINER|AWT-EventQueue-0|info|Login not successful: No such account "SIT1"
+220201 215455.754|CONFIG|main|setFileHandlers|Now logging to D:\pc2-9.7.0-6181\pc2-9.7.0\bin\profiles\Peb2f9844-1181-471e-a8b2-da23990f0e1c directory.
+220201 215455.755|INFO|main|info|
+220201 215455.755|INFO|main|info|Version 9.7.0 20210317 (Wednesday, March 17th 2021 06:30 UTC) Java ver 1.8.0_311 build 6181 Windows 10 10.0 (amd64) 
+220201 215455.756|INFO|main|startLog|Working directory is D:\pc2-9.7.0-6181\pc2-9.7.0\bin
+220201 215455.757|INFO|main|startLog|Process id is 9576@DESKTOP-A2FRFRN
+220201 215455.881|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): searching for image file 'images/PC2Logo.png' in jar files
+220201 215455.882|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/PC2Logo.png' at URL 'jar:file:/D:/pc2-9.7.0-6181/pc2-9.7.0/lib/pc2.jar!/images/PC2Logo.png'
+220201 215455.882|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/PC2Logo.png'; verifying checksum
+220201 215456.343|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): searching for image file 'images/csus_logo.png' in jar files
+220201 215456.343|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/csus_logo.png' at URL 'jar:file:/D:/pc2-9.7.0-6181/pc2-9.7.0/lib/pc2.jar!/images/csus_logo.png'
+220201 215456.343|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/csus_logo.png'; verifying checksum
+220201 215456.349|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): searching for image file 'images/ICPCWebMast_small.png' in jar files
+220201 215456.350|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/ICPCWebMast_small.png' at URL 'jar:file:/D:/pc2-9.7.0-6181/pc2-9.7.0/lib/pc2.jar!/images/ICPCWebMast_small.png'
+220201 215456.350|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/ICPCWebMast_small.png'; verifying checksum
+220202 225301.970|CONFIG|main|setFileHandlers|Now logging to D:\pc2-9.7.0-6181\pc2-9.7.0\bin\profiles\Peb2f9844-1181-471e-a8b2-da23990f0e1c directory.
+220202 225301.971|INFO|main|info|
+220202 225301.972|INFO|main|info|Version 9.7.0 20210317 (Wednesday, March 17th 2021 06:30 UTC) Java ver 1.8.0_311 build 6181 Windows 10 10.0 (amd64) 
+220202 225301.972|INFO|main|startLog|Working directory is D:\pc2-9.7.0-6181\pc2-9.7.0\bin
+220202 225301.973|INFO|main|startLog|Process id is 8516@DESKTOP-A2FRFRN
+220202 225302.136|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): searching for image file 'images/PC2Logo.png' in jar files
+220202 225302.136|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/PC2Logo.png' at URL 'jar:file:/D:/pc2-9.7.0-6181/pc2-9.7.0/lib/pc2.jar!/images/PC2Logo.png'
+220202 225302.137|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/PC2Logo.png'; verifying checksum
+220202 225302.682|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): searching for image file 'images/csus_logo.png' in jar files
+220202 225302.682|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/csus_logo.png' at URL 'jar:file:/D:/pc2-9.7.0-6181/pc2-9.7.0/lib/pc2.jar!/images/csus_logo.png'
+220202 225302.682|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/csus_logo.png'; verifying checksum
+220202 225302.690|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): searching for image file 'images/ICPCWebMast_small.png' in jar files
+220202 225302.691|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/ICPCWebMast_small.png' at URL 'jar:file:/D:/pc2-9.7.0-6181/pc2-9.7.0/lib/pc2.jar!/images/ICPCWebMast_small.png'
+220202 225302.691|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/ICPCWebMast_small.png'; verifying checksum

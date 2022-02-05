@@ -1,0 +1,474 @@
+220201 221301.529|CONFIG|Thread-8|setFileHandlers|Now logging to D:\pc2-9.7.0-6181\pc2-9.7.0\bin\logs directory.
+220201 221301.529|INFO|Thread-8|info|
+220201 221301.530|INFO|Thread-8|info|Version 9.7.0 20210317 (Wednesday, March 17th 2021 06:30 UTC) Java ver 1.8.0_311 build 6181 Windows 10 10.0 (amd64) 
+220201 221301.530|INFO|Thread-8|info|Login: administrator1 (aka administrator1)
+220201 221301.530|INFO|Thread-8|startLog|Working directory is D:\pc2-9.7.0-6181\pc2-9.7.0\bin
+220201 221301.530|INFO|Thread-8|startLog|Process id is 6732@DESKTOP-A2FRFRN
+220201 221301.531|INFO|Thread-8|info|Attempting to load UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+220201 221301.544|INFO|Thread-8|info|Loaded UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+220201 221302.226|FINER|AWT-EventQueue-0|info|FrameUtilities.loadAndVerifyImageFile(): searching for image file 'images/PC2Logo.png' in jar files
+220201 221302.228|FINER|AWT-EventQueue-0|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/PC2Logo.png' at URL 'jar:file:/D:/pc2-9.7.0-6181/pc2-9.7.0/lib/pc2.jar!/images/PC2Logo.png'
+220201 221302.228|FINER|AWT-EventQueue-0|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/PC2Logo.png'; verifying checksum
+220201 221302.703|FINER|AWT-EventQueue-0|info|FrameUtilities.loadAndVerifyImageFile(): searching for image file 'images/PC2Logo.png' in jar files
+220201 221302.704|FINER|AWT-EventQueue-0|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/PC2Logo.png' at URL 'jar:file:/D:/pc2-9.7.0-6181/pc2-9.7.0/lib/pc2.jar!/images/PC2Logo.png'
+220201 221302.704|FINER|AWT-EventQueue-0|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/PC2Logo.png'; verifying checksum
+220201 221302.988|INFO|Thread-8|info| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+220201 221302.988|INFO|Thread-8|info|handlePacket end Packet[LOGIN_SUCCESS] #4 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+220201 221302.988|INFO|Thread-8|info| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #4 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+220201 221742.811|DEBUG|AWT-EventQueue-0|getAccountFromFields|trouble parsing scoringAdjustement `` For input string: ""
+220201 221742.812|INFO|AWT-EventQueue-0|sendToLocalServer|Sending packet to server Packet[ADD_SETTING] #3 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+220201 221742.812|INFO|AWT-EventQueue-0|sendToLocalServer|Sent    packet to server Packet[ADD_SETTING] #3 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+220201 221742.958|INFO|Thread-10|info| receiveObject(S) start got Packet[UPDATE_SETTING] #6 SERVER0 @ site 1 -> SERVER0 @ site 0
+220201 221742.959|INFO|Thread-10|dumpPacket|Packet UPDATE_SETTING (Seq #6, o#6 ) recieveObject
+220201 221742.960|INFO|Thread-10|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-D4I0OE9 @ 192.168.247.135) (Contest Id: Default--4957759304671347839)
+220201 221742.961|INFO|Thread-10|dumpPacket|    To: SERVER0 @ site 0
+220201 221742.962|INFO|Thread-10|dumpPacket|   key: ACCOUNT is: edu.csus.ecs.pc2.core.model.Account Ahmad
+220201 221742.962|INFO|Thread-10|info|handlePacket start Packet[UPDATE_SETTING] #6 SERVER0 @ site 1 -> SERVER0 @ site 0
+220201 221742.963|INFO|Thread-10|dumpPacket|Packet UPDATE_SETTING (Seq #6, o#6 ) handlePacket
+220201 221742.964|INFO|Thread-10|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-D4I0OE9 @ 192.168.247.135) (Contest Id: Default--4957759304671347839)
+220201 221742.964|INFO|Thread-10|dumpPacket|    To: SERVER0 @ site 0
+220201 221742.966|INFO|Thread-10|dumpPacket|   key: ACCOUNT is: edu.csus.ecs.pc2.core.model.Account Ahmad
+220201 221743.057|INFO|Thread-10|info|handlePacket end Packet[UPDATE_SETTING] #6 SERVER0 @ site 1 -> SERVER0 @ site 0
+220201 221743.057|INFO|Thread-10|info| receiveObject(S) end   got Packet[UPDATE_SETTING] #6 SERVER0 @ site 1 -> SERVER0 @ site 0
+220201 222250.243|INFO|AWT-EventQueue-0|sendToLocalServer|Sending packet to server Packet[ADD_SETTING] #4 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+220201 222250.243|INFO|AWT-EventQueue-0|sendToLocalServer|Sent    packet to server Packet[ADD_SETTING] #4 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+220201 222250.581|INFO|Thread-13|info| receiveObject(S) start got Packet[ADD_SETTING] #7 SERVER0 @ site 1 -> SERVER0 @ site 0
+220201 222250.582|INFO|Thread-13|dumpPacket|Packet ADD_SETTING (Seq #7, o#4 ) recieveObject
+220201 222250.582|INFO|Thread-13|dumpPacket|  From: SERVER0 @ site 1, oADMINISTRATOR1 @ site 1 (DESKTOP-D4I0OE9 @ 192.168.247.135) (Contest Id: Default--4957759304671347839)
+220201 222250.583|INFO|Thread-13|dumpPacket|    To: SERVER0 @ site 0
+220201 222250.584|INFO|Thread-13|dumpPacket|   key: PROBLEM is: edu.csus.ecs.pc2.core.model.Problem  bhbhjbljhbhjbjh
+220201 222250.585|INFO|Thread-13|dumpPacket|   key: PROBLEM_DATA_FILES is: edu.csus.ecs.pc2.core.model.ProblemDataFiles _bhbhjbljhbhjbjh-8640881699610904938 0 data files, 0 answer files. Data: Answer:  Output Validator: null Input Validator: null
+220201 222250.586|INFO|Thread-13|info|handlePacket start Packet[ADD_SETTING] #7 SERVER0 @ site 1 -> SERVER0 @ site 0
+220201 222250.587|INFO|Thread-13|dumpPacket|Packet ADD_SETTING (Seq #7, o#4 ) handlePacket
+220201 222250.587|INFO|Thread-13|dumpPacket|  From: SERVER0 @ site 1, oADMINISTRATOR1 @ site 1 (DESKTOP-D4I0OE9 @ 192.168.247.135) (Contest Id: Default--4957759304671347839)
+220201 222250.590|INFO|Thread-13|dumpPacket|    To: SERVER0 @ site 0
+220201 222250.590|INFO|Thread-13|dumpPacket|   key: PROBLEM is: edu.csus.ecs.pc2.core.model.Problem  bhbhjbljhbhjbjh
+220201 222250.591|INFO|Thread-13|dumpPacket|   key: PROBLEM_DATA_FILES is: edu.csus.ecs.pc2.core.model.ProblemDataFiles _bhbhjbljhbhjbjh-8640881699610904938 0 data files, 0 answer files. Data: Answer:  Output Validator: null Input Validator: null
+220201 222250.655|INFO|Thread-13|info|handlePacket end Packet[ADD_SETTING] #7 SERVER0 @ site 1 -> SERVER0 @ site 0
+220201 222250.656|INFO|Thread-13|info| receiveObject(S) end   got Packet[ADD_SETTING] #7 SERVER0 @ site 1 -> SERVER0 @ site 0
+220201 222438.027|INFO|AWT-EventQueue-0|sendToLocalServer|Sending packet to server Packet[ADD_SETTING] #5 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+220201 222438.028|INFO|AWT-EventQueue-0|sendToLocalServer|Sent    packet to server Packet[ADD_SETTING] #5 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+220201 222438.240|INFO|Thread-15|info| receiveObject(S) start got Packet[ADD_SETTING] #9 SERVER0 @ site 1 -> SERVER0 @ site 0
+220201 222438.241|INFO|Thread-15|dumpPacket|Packet ADD_SETTING (Seq #9, o#5 ) recieveObject
+220201 222438.243|INFO|Thread-15|dumpPacket|  From: SERVER0 @ site 1, oADMINISTRATOR1 @ site 1 (DESKTOP-D4I0OE9 @ 192.168.247.135) (Contest Id: Default--4957759304671347839)
+220201 222438.244|INFO|Thread-15|dumpPacket|    To: SERVER0 @ site 0
+220201 222438.244|INFO|Thread-15|dumpPacket|   key: LANGUAGE is: edu.csus.ecs.pc2.core.model.Language C++
+220201 222438.245|INFO|Thread-15|info|handlePacket start Packet[ADD_SETTING] #9 SERVER0 @ site 1 -> SERVER0 @ site 0
+220201 222438.246|INFO|Thread-15|dumpPacket|Packet ADD_SETTING (Seq #9, o#5 ) handlePacket
+220201 222438.248|INFO|Thread-15|dumpPacket|  From: SERVER0 @ site 1, oADMINISTRATOR1 @ site 1 (DESKTOP-D4I0OE9 @ 192.168.247.135) (Contest Id: Default--4957759304671347839)
+220201 222438.249|INFO|Thread-15|dumpPacket|    To: SERVER0 @ site 0
+220201 222438.251|INFO|Thread-15|dumpPacket|   key: LANGUAGE is: edu.csus.ecs.pc2.core.model.Language C++
+220201 222438.257|INFO|Thread-15|info|handlePacket end Packet[ADD_SETTING] #9 SERVER0 @ site 1 -> SERVER0 @ site 0
+220201 222438.260|INFO|Thread-15|info| receiveObject(S) end   got Packet[ADD_SETTING] #9 SERVER0 @ site 1 -> SERVER0 @ site 0
+220202 225335.027|CONFIG|Thread-6|setFileHandlers|Now logging to D:\pc2-9.7.0-6181\pc2-9.7.0\bin\logs directory.
+220202 225335.028|INFO|Thread-6|info|
+220202 225335.028|INFO|Thread-6|info|Version 9.7.0 20210317 (Wednesday, March 17th 2021 06:30 UTC) Java ver 1.8.0_311 build 6181 Windows 10 10.0 (amd64) 
+220202 225335.028|INFO|Thread-6|info|Login: administrator1 (aka administrator1)
+220202 225335.028|INFO|Thread-6|startLog|Working directory is D:\pc2-9.7.0-6181\pc2-9.7.0\bin
+220202 225335.029|INFO|Thread-6|startLog|Process id is 1080@DESKTOP-A2FRFRN
+220202 225335.029|INFO|Thread-6|info|Attempting to load UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+220202 225335.043|INFO|Thread-6|info|Loaded UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+220202 225335.767|FINER|AWT-EventQueue-0|info|FrameUtilities.loadAndVerifyImageFile(): searching for image file 'images/PC2Logo.png' in jar files
+220202 225335.769|FINER|AWT-EventQueue-0|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/PC2Logo.png' at URL 'jar:file:/D:/pc2-9.7.0-6181/pc2-9.7.0/lib/pc2.jar!/images/PC2Logo.png'
+220202 225335.769|FINER|AWT-EventQueue-0|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/PC2Logo.png'; verifying checksum
+220202 225336.377|FINER|AWT-EventQueue-0|info|FrameUtilities.loadAndVerifyImageFile(): searching for image file 'images/PC2Logo.png' in jar files
+220202 225336.377|FINER|AWT-EventQueue-0|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/PC2Logo.png' at URL 'jar:file:/D:/pc2-9.7.0-6181/pc2-9.7.0/lib/pc2.jar!/images/PC2Logo.png'
+220202 225336.378|FINER|AWT-EventQueue-0|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/PC2Logo.png'; verifying checksum
+220202 225336.700|INFO|Thread-6|info| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+220202 225336.701|INFO|Thread-6|info|handlePacket end Packet[LOGIN_SUCCESS] #2 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+220202 225336.702|INFO|Thread-6|info| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #2 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+220202 230538.350|DEBUG|AWT-EventQueue-0|getAccountFromFields|trouble parsing scoringAdjustement `` For input string: ""
+220202 230538.351|INFO|AWT-EventQueue-0|sendToLocalServer|Sending packet to server Packet[ADD_SETTING] #2 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+220202 230538.351|INFO|AWT-EventQueue-0|sendToLocalServer|Sent    packet to server Packet[ADD_SETTING] #2 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+220202 230538.536|INFO|Thread-8|info| receiveObject(S) start got Packet[UPDATE_SETTING] #4 SERVER0 @ site 1 -> SERVER0 @ site 0
+220202 230538.537|INFO|Thread-8|dumpPacket|Packet UPDATE_SETTING (Seq #4, o#4 ) recieveObject
+220202 230538.538|INFO|Thread-8|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (Hamzyy @ 192.168.85.1) (Contest Id: Default--4957759304671347839)
+220202 230538.539|INFO|Thread-8|dumpPacket|    To: SERVER0 @ site 0
+220202 230538.540|INFO|Thread-8|dumpPacket|   key: ACCOUNT is: edu.csus.ecs.pc2.core.model.Account team1
+220202 230538.540|INFO|Thread-8|info|handlePacket start Packet[UPDATE_SETTING] #4 SERVER0 @ site 1 -> SERVER0 @ site 0
+220202 230538.541|INFO|Thread-8|dumpPacket|Packet UPDATE_SETTING (Seq #4, o#4 ) handlePacket
+220202 230538.542|INFO|Thread-8|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (Hamzyy @ 192.168.85.1) (Contest Id: Default--4957759304671347839)
+220202 230538.543|INFO|Thread-8|dumpPacket|    To: SERVER0 @ site 0
+220202 230538.544|INFO|Thread-8|dumpPacket|   key: ACCOUNT is: edu.csus.ecs.pc2.core.model.Account team1
+220202 230538.611|INFO|Thread-8|info|handlePacket end Packet[UPDATE_SETTING] #4 SERVER0 @ site 1 -> SERVER0 @ site 0
+220202 230538.611|INFO|Thread-8|info| receiveObject(S) end   got Packet[UPDATE_SETTING] #4 SERVER0 @ site 1 -> SERVER0 @ site 0
+220202 230606.571|DEBUG|AWT-EventQueue-0|getAccountFromFields|trouble parsing scoringAdjustement `` For input string: ""
+220202 230606.571|INFO|AWT-EventQueue-0|sendToLocalServer|Sending packet to server Packet[ADD_SETTING] #3 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+220202 230606.572|INFO|AWT-EventQueue-0|sendToLocalServer|Sent    packet to server Packet[ADD_SETTING] #3 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+220202 230606.650|INFO|Thread-10|info| receiveObject(S) start got Packet[UPDATE_SETTING] #5 SERVER0 @ site 1 -> SERVER0 @ site 0
+220202 230606.651|INFO|Thread-10|dumpPacket|Packet UPDATE_SETTING (Seq #5, o#5 ) recieveObject
+220202 230606.651|INFO|Thread-10|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (Hamzyy @ 192.168.85.1) (Contest Id: Default--4957759304671347839)
+220202 230606.652|INFO|Thread-10|dumpPacket|    To: SERVER0 @ site 0
+220202 230606.652|INFO|Thread-10|dumpPacket|   key: ACCOUNT is: edu.csus.ecs.pc2.core.model.Account team2
+220202 230606.652|INFO|Thread-10|info|handlePacket start Packet[UPDATE_SETTING] #5 SERVER0 @ site 1 -> SERVER0 @ site 0
+220202 230606.652|INFO|Thread-10|dumpPacket|Packet UPDATE_SETTING (Seq #5, o#5 ) handlePacket
+220202 230606.652|INFO|Thread-10|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (Hamzyy @ 192.168.85.1) (Contest Id: Default--4957759304671347839)
+220202 230606.652|INFO|Thread-10|dumpPacket|    To: SERVER0 @ site 0
+220202 230606.654|INFO|Thread-10|dumpPacket|   key: ACCOUNT is: edu.csus.ecs.pc2.core.model.Account team2
+220202 230606.692|INFO|Thread-10|info|handlePacket end Packet[UPDATE_SETTING] #5 SERVER0 @ site 1 -> SERVER0 @ site 0
+220202 230606.693|INFO|Thread-10|info| receiveObject(S) end   got Packet[UPDATE_SETTING] #5 SERVER0 @ site 1 -> SERVER0 @ site 0
+220202 230637.235|DEBUG|AWT-EventQueue-0|getAccountFromFields|trouble parsing scoringAdjustement `` For input string: ""
+220202 230637.235|INFO|AWT-EventQueue-0|sendToLocalServer|Sending packet to server Packet[ADD_SETTING] #4 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+220202 230637.236|INFO|AWT-EventQueue-0|sendToLocalServer|Sent    packet to server Packet[ADD_SETTING] #4 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+220202 230637.340|INFO|Thread-12|info| receiveObject(S) start got Packet[UPDATE_SETTING] #6 SERVER0 @ site 1 -> SERVER0 @ site 0
+220202 230637.341|INFO|Thread-12|dumpPacket|Packet UPDATE_SETTING (Seq #6, o#6 ) recieveObject
+220202 230637.341|INFO|Thread-12|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (Hamzyy @ 192.168.85.1) (Contest Id: Default--4957759304671347839)
+220202 230637.342|INFO|Thread-12|dumpPacket|    To: SERVER0 @ site 0
+220202 230637.342|INFO|Thread-12|dumpPacket|   key: ACCOUNT is: edu.csus.ecs.pc2.core.model.Account team3
+220202 230637.342|INFO|Thread-12|info|handlePacket start Packet[UPDATE_SETTING] #6 SERVER0 @ site 1 -> SERVER0 @ site 0
+220202 230637.342|INFO|Thread-12|dumpPacket|Packet UPDATE_SETTING (Seq #6, o#6 ) handlePacket
+220202 230637.343|INFO|Thread-12|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (Hamzyy @ 192.168.85.1) (Contest Id: Default--4957759304671347839)
+220202 230637.344|INFO|Thread-12|dumpPacket|    To: SERVER0 @ site 0
+220202 230637.345|INFO|Thread-12|dumpPacket|   key: ACCOUNT is: edu.csus.ecs.pc2.core.model.Account team3
+220202 230637.389|INFO|Thread-12|info|handlePacket end Packet[UPDATE_SETTING] #6 SERVER0 @ site 1 -> SERVER0 @ site 0
+220202 230637.389|INFO|Thread-12|info| receiveObject(S) end   got Packet[UPDATE_SETTING] #6 SERVER0 @ site 1 -> SERVER0 @ site 0
+220202 230730.541|DEBUG|AWT-EventQueue-0|getAccountFromFields|trouble parsing scoringAdjustement `` For input string: ""
+220202 230730.541|INFO|AWT-EventQueue-0|sendToLocalServer|Sending packet to server Packet[ADD_SETTING] #5 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+220202 230730.542|INFO|AWT-EventQueue-0|sendToLocalServer|Sent    packet to server Packet[ADD_SETTING] #5 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+220202 230730.775|INFO|Thread-14|info| receiveObject(S) start got Packet[UPDATE_SETTING] #7 SERVER0 @ site 1 -> SERVER0 @ site 0
+220202 230730.776|INFO|Thread-14|dumpPacket|Packet UPDATE_SETTING (Seq #7, o#7 ) recieveObject
+220202 230730.779|INFO|Thread-14|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (Hamzyy @ 192.168.85.1) (Contest Id: Default--4957759304671347839)
+220202 230730.780|INFO|Thread-14|dumpPacket|    To: SERVER0 @ site 0
+220202 230730.781|INFO|Thread-14|dumpPacket|   key: ACCOUNT is: edu.csus.ecs.pc2.core.model.Account board
+220202 230730.782|INFO|Thread-14|info|handlePacket start Packet[UPDATE_SETTING] #7 SERVER0 @ site 1 -> SERVER0 @ site 0
+220202 230730.782|INFO|Thread-14|dumpPacket|Packet UPDATE_SETTING (Seq #7, o#7 ) handlePacket
+220202 230730.783|INFO|Thread-14|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (Hamzyy @ 192.168.85.1) (Contest Id: Default--4957759304671347839)
+220202 230730.787|INFO|Thread-14|dumpPacket|    To: SERVER0 @ site 0
+220202 230730.788|INFO|Thread-14|dumpPacket|   key: ACCOUNT is: edu.csus.ecs.pc2.core.model.Account board
+220202 230730.860|INFO|Thread-14|info|handlePacket end Packet[UPDATE_SETTING] #7 SERVER0 @ site 1 -> SERVER0 @ site 0
+220202 230730.860|INFO|Thread-14|info| receiveObject(S) end   got Packet[UPDATE_SETTING] #7 SERVER0 @ site 1 -> SERVER0 @ site 0
+220202 231118.254|INFO|AWT-EventQueue-0|sendToLocalServer|Sending packet to server Packet[GENERATE_ACCOUNTS] #6 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+220202 231118.255|INFO|AWT-EventQueue-0|sendToLocalServer|Sent    packet to server Packet[GENERATE_ACCOUNTS] #6 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+220202 231118.255|INFO|AWT-EventQueue-0|sendToLocalServer|Sending packet to server Packet[GENERATE_ACCOUNTS] #7 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+220202 231118.256|INFO|AWT-EventQueue-0|sendToLocalServer|Sent    packet to server Packet[GENERATE_ACCOUNTS] #7 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+220202 231118.257|INFO|AWT-EventQueue-0|sendToLocalServer|Sending packet to server Packet[GENERATE_ACCOUNTS] #8 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+220202 231118.258|INFO|AWT-EventQueue-0|sendToLocalServer|Sent    packet to server Packet[GENERATE_ACCOUNTS] #8 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+220202 231118.259|INFO|AWT-EventQueue-0|sendToLocalServer|Sending packet to server Packet[GENERATE_ACCOUNTS] #9 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+220202 231118.259|INFO|AWT-EventQueue-0|sendToLocalServer|Sent    packet to server Packet[GENERATE_ACCOUNTS] #9 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+220202 231118.260|INFO|AWT-EventQueue-0|sendToLocalServer|Sending packet to server Packet[GENERATE_ACCOUNTS] #10 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+220202 231118.261|INFO|AWT-EventQueue-0|sendToLocalServer|Sent    packet to server Packet[GENERATE_ACCOUNTS] #10 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+220202 231118.381|INFO|Thread-20|info| receiveObject(S) start got Packet[ADD_SETTING] #8 SERVER0 @ site 1 -> SERVER0 @ site 0
+220202 231118.382|INFO|Thread-20|dumpPacket|Packet ADD_SETTING (Seq #8, o#8 ) recieveObject
+220202 231118.383|INFO|Thread-20|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (Hamzyy @ 192.168.85.1) (Contest Id: Default--4957759304671347839)
+220202 231118.388|INFO|Thread-20|dumpPacket|    To: SERVER0 @ site 0
+220202 231118.391|INFO|Thread-20|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId SERVER0 @ site 1
+220202 231118.392|INFO|Thread-20|dumpPacket|   key: SITE_NUMBER is: java.lang.Integer 1
+220202 231118.392|INFO|Thread-20|dumpPacket|   key: ACCOUNT_ARRAY is: [Ledu.csus.ecs.pc2.core.model.Account; [Ledu.csus.ecs.pc2.core.model.Account;@7b01717c
+220202 231118.393|INFO|Thread-20|info|handlePacket start Packet[ADD_SETTING] #8 SERVER0 @ site 1 -> SERVER0 @ site 0
+220202 231118.393|INFO|Thread-20|dumpPacket|Packet ADD_SETTING (Seq #8, o#8 ) handlePacket
+220202 231118.394|INFO|Thread-20|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (Hamzyy @ 192.168.85.1) (Contest Id: Default--4957759304671347839)
+220202 231118.394|INFO|Thread-20|dumpPacket|    To: SERVER0 @ site 0
+220202 231118.395|INFO|Thread-20|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId SERVER0 @ site 1
+220202 231118.395|INFO|Thread-20|dumpPacket|   key: SITE_NUMBER is: java.lang.Integer 1
+220202 231118.396|INFO|Thread-20|dumpPacket|   key: ACCOUNT_ARRAY is: [Ledu.csus.ecs.pc2.core.model.Account; [Ledu.csus.ecs.pc2.core.model.Account;@7b01717c
+220202 231118.423|INFO|Thread-21|info| receiveObject(S) start got Packet[ADD_SETTING] #9 SERVER0 @ site 1 -> SERVER0 @ site 0
+220202 231118.424|INFO|Thread-21|dumpPacket|Packet ADD_SETTING (Seq #9, o#9 ) recieveObject
+220202 231118.429|INFO|Thread-21|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (Hamzyy @ 192.168.85.1) (Contest Id: Default--4957759304671347839)
+220202 231118.429|INFO|Thread-21|dumpPacket|    To: SERVER0 @ site 0
+220202 231118.430|INFO|Thread-21|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId SERVER0 @ site 1
+220202 231118.430|INFO|Thread-21|dumpPacket|   key: SITE_NUMBER is: java.lang.Integer 1
+220202 231118.430|INFO|Thread-21|dumpPacket|   key: ACCOUNT_ARRAY is: [Ledu.csus.ecs.pc2.core.model.Account; [Ledu.csus.ecs.pc2.core.model.Account;@26421cb8
+220202 231118.430|INFO|Thread-21|info|handlePacket start Packet[ADD_SETTING] #9 SERVER0 @ site 1 -> SERVER0 @ site 0
+220202 231118.431|INFO|Thread-21|dumpPacket|Packet ADD_SETTING (Seq #9, o#9 ) handlePacket
+220202 231118.432|INFO|Thread-21|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (Hamzyy @ 192.168.85.1) (Contest Id: Default--4957759304671347839)
+220202 231118.433|INFO|Thread-21|dumpPacket|    To: SERVER0 @ site 0
+220202 231118.436|INFO|Thread-21|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId SERVER0 @ site 1
+220202 231118.438|INFO|Thread-21|dumpPacket|   key: SITE_NUMBER is: java.lang.Integer 1
+220202 231118.440|INFO|Thread-21|dumpPacket|   key: ACCOUNT_ARRAY is: [Ledu.csus.ecs.pc2.core.model.Account; [Ledu.csus.ecs.pc2.core.model.Account;@26421cb8
+220202 231118.488|INFO|Thread-20|info|handlePacket end Packet[ADD_SETTING] #8 SERVER0 @ site 1 -> SERVER0 @ site 0
+220202 231118.489|INFO|Thread-20|info| receiveObject(S) end   got Packet[ADD_SETTING] #8 SERVER0 @ site 1 -> SERVER0 @ site 0
+220202 231118.494|INFO|Thread-21|info|handlePacket end Packet[ADD_SETTING] #9 SERVER0 @ site 1 -> SERVER0 @ site 0
+220202 231118.495|INFO|Thread-21|info| receiveObject(S) end   got Packet[ADD_SETTING] #9 SERVER0 @ site 1 -> SERVER0 @ site 0
+220202 231118.611|INFO|Thread-22|info| receiveObject(S) start got Packet[ADD_SETTING] #10 SERVER0 @ site 1 -> SERVER0 @ site 0
+220202 231118.614|INFO|Thread-22|dumpPacket|Packet ADD_SETTING (Seq #10, o#10 ) recieveObject
+220202 231118.617|INFO|Thread-22|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (Hamzyy @ 192.168.85.1) (Contest Id: Default--4957759304671347839)
+220202 231118.619|INFO|Thread-23|info| receiveObject(S) start got Packet[ADD_SETTING] #11 SERVER0 @ site 1 -> SERVER0 @ site 0
+220202 231118.624|INFO|Thread-23|dumpPacket|Packet ADD_SETTING (Seq #11, o#11 ) recieveObject
+220202 231118.624|INFO|Thread-22|dumpPacket|    To: SERVER0 @ site 0
+220202 231118.632|INFO|Thread-23|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (Hamzyy @ 192.168.85.1) (Contest Id: Default--4957759304671347839)
+220202 231118.636|INFO|Thread-23|dumpPacket|    To: SERVER0 @ site 0
+220202 231118.637|INFO|Thread-23|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId SERVER0 @ site 1
+220202 231118.639|INFO|Thread-23|dumpPacket|   key: SITE_NUMBER is: java.lang.Integer 1
+220202 231118.640|INFO|Thread-23|dumpPacket|   key: ACCOUNT_ARRAY is: [Ledu.csus.ecs.pc2.core.model.Account; [Ledu.csus.ecs.pc2.core.model.Account;@1df6de48
+220202 231118.640|INFO|Thread-23|info|handlePacket start Packet[ADD_SETTING] #11 SERVER0 @ site 1 -> SERVER0 @ site 0
+220202 231118.641|INFO|Thread-23|dumpPacket|Packet ADD_SETTING (Seq #11, o#11 ) handlePacket
+220202 231118.641|INFO|Thread-23|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (Hamzyy @ 192.168.85.1) (Contest Id: Default--4957759304671347839)
+220202 231118.641|INFO|Thread-23|dumpPacket|    To: SERVER0 @ site 0
+220202 231118.642|INFO|Thread-23|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId SERVER0 @ site 1
+220202 231118.642|INFO|Thread-23|dumpPacket|   key: SITE_NUMBER is: java.lang.Integer 1
+220202 231118.642|INFO|Thread-23|dumpPacket|   key: ACCOUNT_ARRAY is: [Ledu.csus.ecs.pc2.core.model.Account; [Ledu.csus.ecs.pc2.core.model.Account;@1df6de48
+220202 231118.655|INFO|Thread-24|info| receiveObject(S) start got Packet[ADD_SETTING] #12 SERVER0 @ site 1 -> SERVER0 @ site 0
+220202 231118.657|INFO|Thread-22|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId SERVER0 @ site 1
+220202 231118.659|INFO|Thread-24|dumpPacket|Packet ADD_SETTING (Seq #12, o#12 ) recieveObject
+220202 231118.661|INFO|Thread-22|dumpPacket|   key: SITE_NUMBER is: java.lang.Integer 1
+220202 231118.661|INFO|Thread-24|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (Hamzyy @ 192.168.85.1) (Contest Id: Default--4957759304671347839)
+220202 231118.681|INFO|Thread-22|dumpPacket|   key: ACCOUNT_ARRAY is: [Ledu.csus.ecs.pc2.core.model.Account; [Ledu.csus.ecs.pc2.core.model.Account;@358c5324
+220202 231118.682|INFO|Thread-22|info|handlePacket start Packet[ADD_SETTING] #10 SERVER0 @ site 1 -> SERVER0 @ site 0
+220202 231118.682|INFO|Thread-22|dumpPacket|Packet ADD_SETTING (Seq #10, o#10 ) handlePacket
+220202 231118.683|INFO|Thread-22|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (Hamzyy @ 192.168.85.1) (Contest Id: Default--4957759304671347839)
+220202 231118.683|INFO|Thread-22|dumpPacket|    To: SERVER0 @ site 0
+220202 231118.683|INFO|Thread-22|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId SERVER0 @ site 1
+220202 231118.683|INFO|Thread-22|dumpPacket|   key: SITE_NUMBER is: java.lang.Integer 1
+220202 231118.683|INFO|Thread-22|dumpPacket|   key: ACCOUNT_ARRAY is: [Ledu.csus.ecs.pc2.core.model.Account; [Ledu.csus.ecs.pc2.core.model.Account;@358c5324
+220202 231118.714|INFO|Thread-24|dumpPacket|    To: SERVER0 @ site 0
+220202 231118.714|INFO|Thread-24|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId SERVER0 @ site 1
+220202 231118.715|INFO|Thread-24|dumpPacket|   key: SITE_NUMBER is: java.lang.Integer 1
+220202 231118.715|INFO|Thread-24|dumpPacket|   key: ACCOUNT_ARRAY is: [Ledu.csus.ecs.pc2.core.model.Account; [Ledu.csus.ecs.pc2.core.model.Account;@424ff086
+220202 231118.716|INFO|Thread-24|info|handlePacket start Packet[ADD_SETTING] #12 SERVER0 @ site 1 -> SERVER0 @ site 0
+220202 231118.716|INFO|Thread-24|dumpPacket|Packet ADD_SETTING (Seq #12, o#12 ) handlePacket
+220202 231118.716|INFO|Thread-24|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (Hamzyy @ 192.168.85.1) (Contest Id: Default--4957759304671347839)
+220202 231118.716|INFO|Thread-24|dumpPacket|    To: SERVER0 @ site 0
+220202 231118.716|INFO|Thread-24|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId SERVER0 @ site 1
+220202 231118.717|INFO|Thread-24|dumpPacket|   key: SITE_NUMBER is: java.lang.Integer 1
+220202 231118.717|INFO|Thread-24|dumpPacket|   key: ACCOUNT_ARRAY is: [Ledu.csus.ecs.pc2.core.model.Account; [Ledu.csus.ecs.pc2.core.model.Account;@424ff086
+220202 231118.736|INFO|Thread-23|info|handlePacket end Packet[ADD_SETTING] #11 SERVER0 @ site 1 -> SERVER0 @ site 0
+220202 231118.736|INFO|Thread-23|info| receiveObject(S) end   got Packet[ADD_SETTING] #11 SERVER0 @ site 1 -> SERVER0 @ site 0
+220202 231118.767|INFO|Thread-22|info|handlePacket end Packet[ADD_SETTING] #10 SERVER0 @ site 1 -> SERVER0 @ site 0
+220202 231118.767|INFO|Thread-22|info| receiveObject(S) end   got Packet[ADD_SETTING] #10 SERVER0 @ site 1 -> SERVER0 @ site 0
+220202 231118.792|INFO|Thread-24|info|handlePacket end Packet[ADD_SETTING] #12 SERVER0 @ site 1 -> SERVER0 @ site 0
+220202 231118.792|INFO|Thread-24|info| receiveObject(S) end   got Packet[ADD_SETTING] #12 SERVER0 @ site 1 -> SERVER0 @ site 0
+220202 231238.979|INFO|AWT-EventQueue-0|sendToLocalServer|Sending packet to server Packet[UPDATE_SETTING] #11 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+220202 231238.979|INFO|AWT-EventQueue-0|sendToLocalServer|Sent    packet to server Packet[UPDATE_SETTING] #11 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+220202 231309.913|INFO|AWT-EventQueue-0|sendToLocalServer|Sending packet to server Packet[UPDATE_SETTING] #12 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+220202 231309.913|INFO|AWT-EventQueue-0|sendToLocalServer|Sent    packet to server Packet[UPDATE_SETTING] #12 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+220202 231322.070|INFO|AWT-EventQueue-0|sendToLocalServer|Sending packet to server Packet[UPDATE_SETTING] #13 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+220202 231322.070|INFO|AWT-EventQueue-0|sendToLocalServer|Sent    packet to server Packet[UPDATE_SETTING] #13 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+220202 231422.271|INFO|AWT-EventQueue-0|sendToLocalServer|Sending packet to server Packet[UPDATE_SETTING] #14 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+220202 231422.271|INFO|AWT-EventQueue-0|sendToLocalServer|Sent    packet to server Packet[UPDATE_SETTING] #14 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+220202 231436.601|INFO|AWT-EventQueue-0|sendToLocalServer|Sending packet to server Packet[UPDATE_SETTING] #15 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+220202 231436.602|INFO|AWT-EventQueue-0|sendToLocalServer|Sent    packet to server Packet[UPDATE_SETTING] #15 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+220202 235133.205|INFO|Thread-30|info| receiveObject(S) start got Packet[ESTABLISHED_CONNECTION] #18 SERVER0 @ site 1 -> SERVER0 @ site 0
+220202 235133.206|INFO|Thread-30|dumpPacket|Packet ESTABLISHED_CONNECTION (Seq #18, o#18 ) recieveObject
+220202 235133.207|INFO|Thread-30|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (Hamzyy @ 192.168.85.1) (Contest Id: Default--4957759304671347839)
+220202 235133.207|INFO|Thread-30|dumpPacket|    To: SERVER0 @ site 0
+220202 235133.208|INFO|Thread-30|dumpPacket|   key: CONNECTION_HANDLE_ID is: edu.csus.ecs.pc2.core.transport.ConnectionHandlerID Socket[addr=/192.168.247.78,port=49780,localport=50002]--8738713816566639706
+220202 235133.208|INFO|Thread-30|info|handlePacket start Packet[ESTABLISHED_CONNECTION] #18 SERVER0 @ site 1 -> SERVER0 @ site 0
+220202 235133.209|INFO|Thread-30|dumpPacket|Packet ESTABLISHED_CONNECTION (Seq #18, o#18 ) handlePacket
+220202 235133.209|INFO|Thread-30|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (Hamzyy @ 192.168.85.1) (Contest Id: Default--4957759304671347839)
+220202 235133.210|INFO|Thread-30|dumpPacket|    To: SERVER0 @ site 0
+220202 235133.210|INFO|Thread-30|dumpPacket|   key: CONNECTION_HANDLE_ID is: edu.csus.ecs.pc2.core.transport.ConnectionHandlerID Socket[addr=/192.168.247.78,port=49780,localport=50002]--8738713816566639706
+220202 235133.211|INFO|Thread-30|info| receiveObject(S) end   got Packet[ESTABLISHED_CONNECTION] #18 SERVER0 @ site 1 -> SERVER0 @ site 0
+220202 235153.732|INFO|Thread-31|info| receiveObject(S) start got Packet[LOGIN] #20 SERVER0 @ site 1 -> SERVER0 @ site 0
+220202 235153.732|INFO|Thread-31|dumpPacket|Packet LOGIN (Seq #20, o#20 ) recieveObject
+220202 235153.733|INFO|Thread-31|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (Hamzyy @ 192.168.85.1) (Contest Id: Default--4957759304671347839)
+220202 235153.733|INFO|Thread-31|dumpPacket|    To: SERVER0 @ site 0
+220202 235153.734|INFO|Thread-31|dumpPacket|   key: CLIENT_SETTINGS is: edu.csus.ecs.pc2.core.model.ClientSettings edu.csus.ecs.pc2.core.model.ClientSettings@7e83566
+220202 235153.734|INFO|Thread-31|dumpPacket|   key: CONNECTION_HANDLE_ID is: edu.csus.ecs.pc2.core.transport.ConnectionHandlerID Socket[addr=/192.168.247.78,port=49780,localport=50002]--8738713816566639706
+220202 235153.735|INFO|Thread-31|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId TEAM1 @ site 1
+220202 235153.735|INFO|Thread-31|info|handlePacket start Packet[LOGIN] #20 SERVER0 @ site 1 -> SERVER0 @ site 0
+220202 235153.736|INFO|Thread-31|dumpPacket|Packet LOGIN (Seq #20, o#20 ) handlePacket
+220202 235153.736|INFO|Thread-31|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (Hamzyy @ 192.168.85.1) (Contest Id: Default--4957759304671347839)
+220202 235153.737|INFO|Thread-31|dumpPacket|    To: SERVER0 @ site 0
+220202 235153.737|INFO|Thread-31|dumpPacket|   key: CLIENT_SETTINGS is: edu.csus.ecs.pc2.core.model.ClientSettings edu.csus.ecs.pc2.core.model.ClientSettings@7e83566
+220202 235153.738|INFO|Thread-31|dumpPacket|   key: CONNECTION_HANDLE_ID is: edu.csus.ecs.pc2.core.transport.ConnectionHandlerID Socket[addr=/192.168.247.78,port=49780,localport=50002]--8738713816566639706
+220202 235153.738|INFO|Thread-31|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId TEAM1 @ site 1
+220202 235153.743|INFO|Thread-31|info|handlePacket end Packet[LOGIN] #20 SERVER0 @ site 1 -> SERVER0 @ site 0
+220202 235153.743|INFO|Thread-31|info| receiveObject(S) end   got Packet[LOGIN] #20 SERVER0 @ site 1 -> SERVER0 @ site 0
+220202 235740.658|INFO|Thread-32|info| receiveObject(S) start got Packet[LOGOUT] #21 SERVER0 @ site 1 -> SERVER0 @ site 0
+220202 235740.659|INFO|Thread-32|dumpPacket|Packet LOGOUT (Seq #21, o#21 ) recieveObject
+220202 235740.659|INFO|Thread-32|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (Hamzyy @ 192.168.85.1) (Contest Id: Default--4957759304671347839)
+220202 235740.659|INFO|Thread-32|dumpPacket|    To: SERVER0 @ site 0
+220202 235740.659|INFO|Thread-32|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId TEAM1 @ site 1
+220202 235740.659|INFO|Thread-32|info|handlePacket start Packet[LOGOUT] #21 SERVER0 @ site 1 -> SERVER0 @ site 0
+220202 235740.659|INFO|Thread-32|dumpPacket|Packet LOGOUT (Seq #21, o#21 ) handlePacket
+220202 235740.660|INFO|Thread-32|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (Hamzyy @ 192.168.85.1) (Contest Id: Default--4957759304671347839)
+220202 235740.660|INFO|Thread-32|dumpPacket|    To: SERVER0 @ site 0
+220202 235740.660|INFO|Thread-32|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId TEAM1 @ site 1
+220202 235740.660|INFO|Thread-32|logMessage|removed TEAM1 @ site 1 from local login list
+220202 235740.661|INFO|Thread-32|info|handlePacket end Packet[LOGOUT] #21 SERVER0 @ site 1 -> SERVER0 @ site 0
+220202 235740.662|INFO|Thread-32|info| receiveObject(S) end   got Packet[LOGOUT] #21 SERVER0 @ site 1 -> SERVER0 @ site 0
+220202 235740.662|INFO|Thread-33|info| receiveObject(S) start got Packet[DROPPED_CONNECTION] #22 SERVER0 @ site 1 -> SERVER0 @ site 0
+220202 235740.662|INFO|Thread-33|dumpPacket|Packet DROPPED_CONNECTION (Seq #22, o#22 ) recieveObject
+220202 235740.663|INFO|Thread-33|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (Hamzyy @ 192.168.85.1) (Contest Id: Default--4957759304671347839)
+220202 235740.663|INFO|Thread-33|dumpPacket|    To: SERVER0 @ site 0
+220202 235740.663|INFO|Thread-33|dumpPacket|   key: CONNECTION_HANDLE_ID is: edu.csus.ecs.pc2.core.transport.ConnectionHandlerID Socket[addr=/192.168.247.78,port=49780,localport=50002]--8738713816566639706
+220202 235740.663|INFO|Thread-33|info|handlePacket start Packet[DROPPED_CONNECTION] #22 SERVER0 @ site 1 -> SERVER0 @ site 0
+220202 235740.663|INFO|Thread-33|dumpPacket|Packet DROPPED_CONNECTION (Seq #22, o#22 ) handlePacket
+220202 235740.663|INFO|Thread-33|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (Hamzyy @ 192.168.85.1) (Contest Id: Default--4957759304671347839)
+220202 235740.663|INFO|Thread-33|dumpPacket|    To: SERVER0 @ site 0
+220202 235740.664|INFO|Thread-33|dumpPacket|   key: CONNECTION_HANDLE_ID is: edu.csus.ecs.pc2.core.transport.ConnectionHandlerID Socket[addr=/192.168.247.78,port=49780,localport=50002]--8738713816566639706
+220202 235740.665|INFO|Thread-33|info| receiveObject(S) end   got Packet[DROPPED_CONNECTION] #22 SERVER0 @ site 1 -> SERVER0 @ site 0
+220202 235748.625|INFO|Thread-34|info| receiveObject(S) start got Packet[ESTABLISHED_CONNECTION] #23 SERVER0 @ site 1 -> SERVER0 @ site 0
+220202 235748.626|INFO|Thread-34|dumpPacket|Packet ESTABLISHED_CONNECTION (Seq #23, o#23 ) recieveObject
+220202 235748.627|INFO|Thread-34|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (Hamzyy @ 192.168.85.1) (Contest Id: Default--4957759304671347839)
+220202 235748.627|INFO|Thread-34|dumpPacket|    To: SERVER0 @ site 0
+220202 235748.627|INFO|Thread-34|dumpPacket|   key: CONNECTION_HANDLE_ID is: edu.csus.ecs.pc2.core.transport.ConnectionHandlerID Socket[addr=/192.168.247.78,port=49808,localport=50002]-7113276005697833033
+220202 235748.628|INFO|Thread-34|info|handlePacket start Packet[ESTABLISHED_CONNECTION] #23 SERVER0 @ site 1 -> SERVER0 @ site 0
+220202 235748.628|INFO|Thread-34|dumpPacket|Packet ESTABLISHED_CONNECTION (Seq #23, o#23 ) handlePacket
+220202 235748.633|INFO|Thread-34|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (Hamzyy @ 192.168.85.1) (Contest Id: Default--4957759304671347839)
+220202 235748.640|INFO|Thread-34|dumpPacket|    To: SERVER0 @ site 0
+220202 235748.643|INFO|Thread-34|dumpPacket|   key: CONNECTION_HANDLE_ID is: edu.csus.ecs.pc2.core.transport.ConnectionHandlerID Socket[addr=/192.168.247.78,port=49808,localport=50002]-7113276005697833033
+220202 235748.647|INFO|Thread-34|info| receiveObject(S) end   got Packet[ESTABLISHED_CONNECTION] #23 SERVER0 @ site 1 -> SERVER0 @ site 0
+220203 000243.441|INFO|Thread-35|info| receiveObject(S) start got Packet[ESTABLISHED_CONNECTION] #24 SERVER0 @ site 1 -> SERVER0 @ site 0
+220203 000243.442|INFO|Thread-35|dumpPacket|Packet ESTABLISHED_CONNECTION (Seq #24, o#24 ) recieveObject
+220203 000243.443|INFO|Thread-35|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (Hamzyy @ 192.168.85.1) (Contest Id: Default--4957759304671347839)
+220203 000243.443|INFO|Thread-35|dumpPacket|    To: SERVER0 @ site 0
+220203 000243.444|INFO|Thread-35|dumpPacket|   key: CONNECTION_HANDLE_ID is: edu.csus.ecs.pc2.core.transport.ConnectionHandlerID Socket[addr=/192.168.247.78,port=49812,localport=50002]--4826432865367237635
+220203 000243.444|INFO|Thread-35|info|handlePacket start Packet[ESTABLISHED_CONNECTION] #24 SERVER0 @ site 1 -> SERVER0 @ site 0
+220203 000243.444|INFO|Thread-35|dumpPacket|Packet ESTABLISHED_CONNECTION (Seq #24, o#24 ) handlePacket
+220203 000243.445|INFO|Thread-35|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (Hamzyy @ 192.168.85.1) (Contest Id: Default--4957759304671347839)
+220203 000243.445|INFO|Thread-35|dumpPacket|    To: SERVER0 @ site 0
+220203 000243.446|INFO|Thread-35|dumpPacket|   key: CONNECTION_HANDLE_ID is: edu.csus.ecs.pc2.core.transport.ConnectionHandlerID Socket[addr=/192.168.247.78,port=49812,localport=50002]--4826432865367237635
+220203 000243.446|INFO|Thread-35|info| receiveObject(S) end   got Packet[ESTABLISHED_CONNECTION] #24 SERVER0 @ site 1 -> SERVER0 @ site 0
+220203 000847.157|INFO|Thread-36|info| receiveObject(S) start got Packet[DROPPED_CONNECTION] #25 SERVER0 @ site 1 -> SERVER0 @ site 0
+220203 000847.157|INFO|Thread-36|dumpPacket|Packet DROPPED_CONNECTION (Seq #25, o#25 ) recieveObject
+220203 000847.158|INFO|Thread-36|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (Hamzyy @ 192.168.85.1) (Contest Id: Default--4957759304671347839)
+220203 000847.158|INFO|Thread-36|dumpPacket|    To: SERVER0 @ site 0
+220203 000847.158|INFO|Thread-36|dumpPacket|   key: CONNECTION_HANDLE_ID is: edu.csus.ecs.pc2.core.transport.ConnectionHandlerID Socket[addr=/192.168.247.78,port=49812,localport=50002]--4826432865367237635
+220203 000847.158|INFO|Thread-36|info|handlePacket start Packet[DROPPED_CONNECTION] #25 SERVER0 @ site 1 -> SERVER0 @ site 0
+220203 000847.159|INFO|Thread-36|dumpPacket|Packet DROPPED_CONNECTION (Seq #25, o#25 ) handlePacket
+220203 000847.159|INFO|Thread-36|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (Hamzyy @ 192.168.85.1) (Contest Id: Default--4957759304671347839)
+220203 000847.159|INFO|Thread-36|dumpPacket|    To: SERVER0 @ site 0
+220203 000847.159|INFO|Thread-36|dumpPacket|   key: CONNECTION_HANDLE_ID is: edu.csus.ecs.pc2.core.transport.ConnectionHandlerID Socket[addr=/192.168.247.78,port=49812,localport=50002]--4826432865367237635
+220203 000847.160|INFO|Thread-36|info| receiveObject(S) end   got Packet[DROPPED_CONNECTION] #25 SERVER0 @ site 1 -> SERVER0 @ site 0
+220203 001449.827|INFO|AWT-EventQueue-0|sendToLocalServer|Sending packet to server Packet[ADD_SETTING] #16 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+220203 001449.827|INFO|AWT-EventQueue-0|sendToLocalServer|Sent    packet to server Packet[ADD_SETTING] #16 ADMINISTRATOR1 @ site 1 -> SERVER0 @ site 1
+220203 001450.929|INFO|Thread-38|info| receiveObject(S) start got Packet[ADD_SETTING] #26 SERVER0 @ site 1 -> SERVER0 @ site 0
+220203 001450.930|INFO|Thread-38|dumpPacket|Packet ADD_SETTING (Seq #26, o#16 ) recieveObject
+220203 001450.930|INFO|Thread-38|dumpPacket|  From: SERVER0 @ site 1, oADMINISTRATOR1 @ site 1 (Hamzyy @ 192.168.85.1) (Contest Id: Default--4957759304671347839)
+220203 001450.930|INFO|Thread-38|dumpPacket|    To: SERVER0 @ site 0
+220203 001450.930|INFO|Thread-38|dumpPacket|   key: PROBLEM is: edu.csus.ecs.pc2.core.model.Problem write a c++ prpgram to add 2 numbers
+220203 001450.931|INFO|Thread-38|dumpPacket|   key: PROBLEM_DATA_FILES is: edu.csus.ecs.pc2.core.model.ProblemDataFiles write_a_c++_prpgram_to_add_2_numbers-7728871088027296518 0 data files, 0 answer files. Data: Answer:  Output Validator: null Input Validator: null
+220203 001450.931|INFO|Thread-38|info|handlePacket start Packet[ADD_SETTING] #26 SERVER0 @ site 1 -> SERVER0 @ site 0
+220203 001450.931|INFO|Thread-38|dumpPacket|Packet ADD_SETTING (Seq #26, o#16 ) handlePacket
+220203 001450.931|INFO|Thread-38|dumpPacket|  From: SERVER0 @ site 1, oADMINISTRATOR1 @ site 1 (Hamzyy @ 192.168.85.1) (Contest Id: Default--4957759304671347839)
+220203 001450.932|INFO|Thread-38|dumpPacket|    To: SERVER0 @ site 0
+220203 001450.935|INFO|Thread-38|dumpPacket|   key: PROBLEM is: edu.csus.ecs.pc2.core.model.Problem write a c++ prpgram to add 2 numbers
+220203 001450.937|INFO|Thread-38|dumpPacket|   key: PROBLEM_DATA_FILES is: edu.csus.ecs.pc2.core.model.ProblemDataFiles write_a_c++_prpgram_to_add_2_numbers-7728871088027296518 0 data files, 0 answer files. Data: Answer:  Output Validator: null Input Validator: null
+220203 001451.024|INFO|Thread-38|info|handlePacket end Packet[ADD_SETTING] #26 SERVER0 @ site 1 -> SERVER0 @ site 0
+220203 001451.024|INFO|Thread-38|info| receiveObject(S) end   got Packet[ADD_SETTING] #26 SERVER0 @ site 1 -> SERVER0 @ site 0
+220203 003502.213|INFO|Thread-39|info| receiveObject(S) start got Packet[DROPPED_CONNECTION] #28 SERVER0 @ site 1 -> SERVER0 @ site 0
+220203 003502.214|INFO|Thread-39|dumpPacket|Packet DROPPED_CONNECTION (Seq #28, o#28 ) recieveObject
+220203 003502.214|INFO|Thread-39|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (Hamzyy @ 192.168.85.1) (Contest Id: Default--4957759304671347839)
+220203 003502.214|INFO|Thread-39|dumpPacket|    To: SERVER0 @ site 0
+220203 003502.215|INFO|Thread-39|dumpPacket|   key: CONNECTION_HANDLE_ID is: edu.csus.ecs.pc2.core.transport.ConnectionHandlerID Socket[addr=/192.168.247.78,port=49808,localport=50002]-7113276005697833033
+220203 003502.215|INFO|Thread-39|info|handlePacket start Packet[DROPPED_CONNECTION] #28 SERVER0 @ site 1 -> SERVER0 @ site 0
+220203 003502.215|INFO|Thread-39|dumpPacket|Packet DROPPED_CONNECTION (Seq #28, o#28 ) handlePacket
+220203 003502.216|INFO|Thread-39|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (Hamzyy @ 192.168.85.1) (Contest Id: Default--4957759304671347839)
+220203 003502.216|INFO|Thread-39|dumpPacket|    To: SERVER0 @ site 0
+220203 003502.216|INFO|Thread-39|dumpPacket|   key: CONNECTION_HANDLE_ID is: edu.csus.ecs.pc2.core.transport.ConnectionHandlerID Socket[addr=/192.168.247.78,port=49808,localport=50002]-7113276005697833033
+220203 003502.217|INFO|Thread-39|info| receiveObject(S) end   got Packet[DROPPED_CONNECTION] #28 SERVER0 @ site 1 -> SERVER0 @ site 0
+220203 003517.873|INFO|Thread-40|info| receiveObject(S) start got Packet[ESTABLISHED_CONNECTION] #29 SERVER0 @ site 1 -> SERVER0 @ site 0
+220203 003517.874|INFO|Thread-40|dumpPacket|Packet ESTABLISHED_CONNECTION (Seq #29, o#29 ) recieveObject
+220203 003517.874|INFO|Thread-40|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (Hamzyy @ 192.168.85.1) (Contest Id: Default--4957759304671347839)
+220203 003517.875|INFO|Thread-40|dumpPacket|    To: SERVER0 @ site 0
+220203 003517.875|INFO|Thread-40|dumpPacket|   key: CONNECTION_HANDLE_ID is: edu.csus.ecs.pc2.core.transport.ConnectionHandlerID Socket[addr=/192.168.247.78,port=63302,localport=50002]--8843924121443993300
+220203 003517.875|INFO|Thread-40|info|handlePacket start Packet[ESTABLISHED_CONNECTION] #29 SERVER0 @ site 1 -> SERVER0 @ site 0
+220203 003517.876|INFO|Thread-40|dumpPacket|Packet ESTABLISHED_CONNECTION (Seq #29, o#29 ) handlePacket
+220203 003517.876|INFO|Thread-40|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (Hamzyy @ 192.168.85.1) (Contest Id: Default--4957759304671347839)
+220203 003517.876|INFO|Thread-40|dumpPacket|    To: SERVER0 @ site 0
+220203 003517.877|INFO|Thread-40|dumpPacket|   key: CONNECTION_HANDLE_ID is: edu.csus.ecs.pc2.core.transport.ConnectionHandlerID Socket[addr=/192.168.247.78,port=63302,localport=50002]--8843924121443993300
+220203 003517.877|INFO|Thread-40|info| receiveObject(S) end   got Packet[ESTABLISHED_CONNECTION] #29 SERVER0 @ site 1 -> SERVER0 @ site 0
+220203 003535.384|INFO|Thread-41|info| receiveObject(S) start got Packet[LOGIN] #31 SERVER0 @ site 1 -> SERVER0 @ site 0
+220203 003535.384|INFO|Thread-41|dumpPacket|Packet LOGIN (Seq #31, o#31 ) recieveObject
+220203 003535.385|INFO|Thread-41|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (Hamzyy @ 192.168.85.1) (Contest Id: Default--4957759304671347839)
+220203 003535.385|INFO|Thread-41|dumpPacket|    To: SERVER0 @ site 0
+220203 003535.385|INFO|Thread-41|dumpPacket|   key: CLIENT_SETTINGS is: edu.csus.ecs.pc2.core.model.ClientSettings edu.csus.ecs.pc2.core.model.ClientSettings@2abe6b82
+220203 003535.385|INFO|Thread-41|dumpPacket|   key: CONNECTION_HANDLE_ID is: edu.csus.ecs.pc2.core.transport.ConnectionHandlerID Socket[addr=/192.168.247.78,port=63302,localport=50002]--8843924121443993300
+220203 003535.385|INFO|Thread-41|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId TEAM1 @ site 1
+220203 003535.385|INFO|Thread-41|info|handlePacket start Packet[LOGIN] #31 SERVER0 @ site 1 -> SERVER0 @ site 0
+220203 003535.386|INFO|Thread-41|dumpPacket|Packet LOGIN (Seq #31, o#31 ) handlePacket
+220203 003535.386|INFO|Thread-41|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (Hamzyy @ 192.168.85.1) (Contest Id: Default--4957759304671347839)
+220203 003535.386|INFO|Thread-41|dumpPacket|    To: SERVER0 @ site 0
+220203 003535.386|INFO|Thread-41|dumpPacket|   key: CLIENT_SETTINGS is: edu.csus.ecs.pc2.core.model.ClientSettings edu.csus.ecs.pc2.core.model.ClientSettings@2abe6b82
+220203 003535.386|INFO|Thread-41|dumpPacket|   key: CONNECTION_HANDLE_ID is: edu.csus.ecs.pc2.core.transport.ConnectionHandlerID Socket[addr=/192.168.247.78,port=63302,localport=50002]--8843924121443993300
+220203 003535.386|INFO|Thread-41|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId TEAM1 @ site 1
+220203 003535.387|INFO|Thread-41|info|handlePacket end Packet[LOGIN] #31 SERVER0 @ site 1 -> SERVER0 @ site 0
+220203 003535.387|INFO|Thread-41|info| receiveObject(S) end   got Packet[LOGIN] #31 SERVER0 @ site 1 -> SERVER0 @ site 0
+220203 003557.259|INFO|Thread-42|info| receiveObject(S) start got Packet[LOGOUT] #32 SERVER0 @ site 1 -> SERVER0 @ site 0
+220203 003557.259|INFO|Thread-42|dumpPacket|Packet LOGOUT (Seq #32, o#32 ) recieveObject
+220203 003557.259|INFO|Thread-42|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (Hamzyy @ 192.168.85.1) (Contest Id: Default--4957759304671347839)
+220203 003557.260|INFO|Thread-42|dumpPacket|    To: SERVER0 @ site 0
+220203 003557.260|INFO|Thread-42|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId TEAM1 @ site 1
+220203 003557.260|INFO|Thread-42|info|handlePacket start Packet[LOGOUT] #32 SERVER0 @ site 1 -> SERVER0 @ site 0
+220203 003557.260|INFO|Thread-42|dumpPacket|Packet LOGOUT (Seq #32, o#32 ) handlePacket
+220203 003557.261|INFO|Thread-42|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (Hamzyy @ 192.168.85.1) (Contest Id: Default--4957759304671347839)
+220203 003557.261|INFO|Thread-42|dumpPacket|    To: SERVER0 @ site 0
+220203 003557.261|INFO|Thread-42|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId TEAM1 @ site 1
+220203 003557.262|INFO|Thread-42|logMessage|removed TEAM1 @ site 1 from local login list
+220203 003557.262|INFO|Thread-42|info|handlePacket end Packet[LOGOUT] #32 SERVER0 @ site 1 -> SERVER0 @ site 0
+220203 003557.262|INFO|Thread-42|info| receiveObject(S) end   got Packet[LOGOUT] #32 SERVER0 @ site 1 -> SERVER0 @ site 0
+220203 003557.270|INFO|Thread-43|info| receiveObject(S) start got Packet[DROPPED_CONNECTION] #33 SERVER0 @ site 1 -> SERVER0 @ site 0
+220203 003557.271|INFO|Thread-43|dumpPacket|Packet DROPPED_CONNECTION (Seq #33, o#33 ) recieveObject
+220203 003557.271|INFO|Thread-43|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (Hamzyy @ 192.168.85.1) (Contest Id: Default--4957759304671347839)
+220203 003557.272|INFO|Thread-43|dumpPacket|    To: SERVER0 @ site 0
+220203 003557.272|INFO|Thread-43|dumpPacket|   key: CONNECTION_HANDLE_ID is: edu.csus.ecs.pc2.core.transport.ConnectionHandlerID Socket[addr=/192.168.247.78,port=63302,localport=50002]--8843924121443993300
+220203 003557.272|INFO|Thread-43|info|handlePacket start Packet[DROPPED_CONNECTION] #33 SERVER0 @ site 1 -> SERVER0 @ site 0
+220203 003557.272|INFO|Thread-43|dumpPacket|Packet DROPPED_CONNECTION (Seq #33, o#33 ) handlePacket
+220203 003557.272|INFO|Thread-43|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (Hamzyy @ 192.168.85.1) (Contest Id: Default--4957759304671347839)
+220203 003557.272|INFO|Thread-43|dumpPacket|    To: SERVER0 @ site 0
+220203 003557.272|INFO|Thread-43|dumpPacket|   key: CONNECTION_HANDLE_ID is: edu.csus.ecs.pc2.core.transport.ConnectionHandlerID Socket[addr=/192.168.247.78,port=63302,localport=50002]--8843924121443993300
+220203 003557.273|INFO|Thread-43|info| receiveObject(S) end   got Packet[DROPPED_CONNECTION] #33 SERVER0 @ site 1 -> SERVER0 @ site 0
+220203 003601.922|INFO|Thread-44|info| receiveObject(S) start got Packet[ESTABLISHED_CONNECTION] #34 SERVER0 @ site 1 -> SERVER0 @ site 0
+220203 003601.922|INFO|Thread-44|dumpPacket|Packet ESTABLISHED_CONNECTION (Seq #34, o#34 ) recieveObject
+220203 003601.922|INFO|Thread-44|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (Hamzyy @ 192.168.85.1) (Contest Id: Default--4957759304671347839)
+220203 003601.923|INFO|Thread-44|dumpPacket|    To: SERVER0 @ site 0
+220203 003601.923|INFO|Thread-44|dumpPacket|   key: CONNECTION_HANDLE_ID is: edu.csus.ecs.pc2.core.transport.ConnectionHandlerID Socket[addr=/192.168.247.78,port=63304,localport=50002]--6311484071452235255
+220203 003601.923|INFO|Thread-44|info|handlePacket start Packet[ESTABLISHED_CONNECTION] #34 SERVER0 @ site 1 -> SERVER0 @ site 0
+220203 003601.924|INFO|Thread-44|dumpPacket|Packet ESTABLISHED_CONNECTION (Seq #34, o#34 ) handlePacket
+220203 003601.924|INFO|Thread-44|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (Hamzyy @ 192.168.85.1) (Contest Id: Default--4957759304671347839)
+220203 003601.924|INFO|Thread-44|dumpPacket|    To: SERVER0 @ site 0
+220203 003601.924|INFO|Thread-44|dumpPacket|   key: CONNECTION_HANDLE_ID is: edu.csus.ecs.pc2.core.transport.ConnectionHandlerID Socket[addr=/192.168.247.78,port=63304,localport=50002]--6311484071452235255
+220203 003601.925|INFO|Thread-44|info| receiveObject(S) end   got Packet[ESTABLISHED_CONNECTION] #34 SERVER0 @ site 1 -> SERVER0 @ site 0
+220203 003617.410|INFO|Thread-45|info| receiveObject(S) start got Packet[LOGIN] #36 SERVER0 @ site 1 -> SERVER0 @ site 0
+220203 003617.410|INFO|Thread-45|dumpPacket|Packet LOGIN (Seq #36, o#36 ) recieveObject
+220203 003617.411|INFO|Thread-45|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (Hamzyy @ 192.168.85.1) (Contest Id: Default--4957759304671347839)
+220203 003617.411|INFO|Thread-45|dumpPacket|    To: SERVER0 @ site 0
+220203 003617.411|INFO|Thread-45|dumpPacket|   key: CLIENT_SETTINGS is: edu.csus.ecs.pc2.core.model.ClientSettings edu.csus.ecs.pc2.core.model.ClientSettings@5e35bf69
+220203 003617.411|INFO|Thread-45|dumpPacket|   key: CONNECTION_HANDLE_ID is: edu.csus.ecs.pc2.core.transport.ConnectionHandlerID Socket[addr=/192.168.247.78,port=63304,localport=50002]--6311484071452235255
+220203 003617.412|INFO|Thread-45|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+220203 003617.413|INFO|Thread-45|info|handlePacket start Packet[LOGIN] #36 SERVER0 @ site 1 -> SERVER0 @ site 0
+220203 003617.413|INFO|Thread-45|dumpPacket|Packet LOGIN (Seq #36, o#36 ) handlePacket
+220203 003617.413|INFO|Thread-45|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (Hamzyy @ 192.168.85.1) (Contest Id: Default--4957759304671347839)
+220203 003617.413|INFO|Thread-45|dumpPacket|    To: SERVER0 @ site 0
+220203 003617.414|INFO|Thread-45|dumpPacket|   key: CLIENT_SETTINGS is: edu.csus.ecs.pc2.core.model.ClientSettings edu.csus.ecs.pc2.core.model.ClientSettings@5e35bf69
+220203 003617.414|INFO|Thread-45|dumpPacket|   key: CONNECTION_HANDLE_ID is: edu.csus.ecs.pc2.core.transport.ConnectionHandlerID Socket[addr=/192.168.247.78,port=63304,localport=50002]--6311484071452235255
+220203 003617.414|INFO|Thread-45|dumpPacket|   key: CLIENT_ID is: edu.csus.ecs.pc2.core.model.ClientId JUDGE1 @ site 1
+220203 003617.415|INFO|Thread-45|info|handlePacket end Packet[LOGIN] #36 SERVER0 @ site 1 -> SERVER0 @ site 0
+220203 003617.415|INFO|Thread-45|info| receiveObject(S) end   got Packet[LOGIN] #36 SERVER0 @ site 1 -> SERVER0 @ site 0
+220203 033755.000|INFO|Thread-1|info|connectionDropped: shutting down ADMINISTRATOR1 @ site 1
+220205 103656.680|CONFIG|Thread-6|setFileHandlers|Now logging to D:\pc2-9.7.0-6181\pc2-9.7.0\bin\logs directory.
+220205 103656.681|INFO|Thread-6|info|
+220205 103656.681|INFO|Thread-6|info|Version 9.7.0 20210317 (Wednesday, March 17th 2021 06:30 UTC) Java ver 1.8.0_311 build 6181 Windows 10 10.0 (amd64) 
+220205 103656.681|INFO|Thread-6|info|Login: administrator1 (aka administrator1)
+220205 103656.681|INFO|Thread-6|startLog|Working directory is D:\pc2-9.7.0-6181\pc2-9.7.0\bin
+220205 103656.681|INFO|Thread-6|startLog|Process id is 6604@DESKTOP-A2FRFRN
+220205 103656.682|INFO|Thread-6|info|Attempting to load UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+220205 103656.693|INFO|Thread-6|info|Loaded UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+220205 103657.497|FINER|AWT-EventQueue-0|info|FrameUtilities.loadAndVerifyImageFile(): searching for image file 'images/PC2Logo.png' in jar files
+220205 103657.499|FINER|AWT-EventQueue-0|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/PC2Logo.png' at URL 'jar:file:/D:/pc2-9.7.0-6181/pc2-9.7.0/lib/pc2.jar!/images/PC2Logo.png'
+220205 103657.499|FINER|AWT-EventQueue-0|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/PC2Logo.png'; verifying checksum
+220205 103658.094|FINER|AWT-EventQueue-0|info|FrameUtilities.loadAndVerifyImageFile(): searching for image file 'images/PC2Logo.png' in jar files
+220205 103658.095|FINER|AWT-EventQueue-0|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/PC2Logo.png' at URL 'jar:file:/D:/pc2-9.7.0-6181/pc2-9.7.0/lib/pc2.jar!/images/PC2Logo.png'
+220205 103658.095|FINER|AWT-EventQueue-0|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/PC2Logo.png'; verifying checksum
+220205 103658.366|INFO|Thread-6|info| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+220205 103658.366|INFO|Thread-6|info|handlePacket end Packet[LOGIN_SUCCESS] #2 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+220205 103658.367|INFO|Thread-6|info| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #2 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+220205 103802.592|CONFIG|Thread-6|setFileHandlers|Now logging to D:\pc2-9.7.0-6181\pc2-9.7.0\bin\logs directory.
+220205 103802.593|INFO|Thread-6|info|
+220205 103802.593|INFO|Thread-6|info|Version 9.7.0 20210317 (Wednesday, March 17th 2021 06:30 UTC) Java ver 1.8.0_311 build 6181 Windows 10 10.0 (amd64) 
+220205 103802.593|INFO|Thread-6|info|Login: administrator1 (aka administrator1)
+220205 103802.593|INFO|Thread-6|startLog|Working directory is D:\pc2-9.7.0-6181\pc2-9.7.0\bin
+220205 103802.593|INFO|Thread-6|startLog|Process id is 10772@DESKTOP-A2FRFRN
+220205 103802.594|INFO|Thread-6|info|Attempting to load UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+220205 103802.604|INFO|Thread-6|info|Loaded UI class edu.csus.ecs.pc2.ui.admin.AdministratorView
+220205 103803.242|FINER|AWT-EventQueue-0|info|FrameUtilities.loadAndVerifyImageFile(): searching for image file 'images/PC2Logo.png' in jar files
+220205 103803.243|FINER|AWT-EventQueue-0|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/PC2Logo.png' at URL 'jar:file:/D:/pc2-9.7.0-6181/pc2-9.7.0/lib/pc2.jar!/images/PC2Logo.png'
+220205 103803.244|FINER|AWT-EventQueue-0|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/PC2Logo.png'; verifying checksum
+220205 103803.711|FINER|AWT-EventQueue-0|info|FrameUtilities.loadAndVerifyImageFile(): searching for image file 'images/PC2Logo.png' in jar files
+220205 103803.712|FINER|AWT-EventQueue-0|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/PC2Logo.png' at URL 'jar:file:/D:/pc2-9.7.0-6181/pc2-9.7.0/lib/pc2.jar!/images/PC2Logo.png'
+220205 103803.712|FINER|AWT-EventQueue-0|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/PC2Logo.png'; verifying checksum
+220205 103804.000|INFO|Thread-6|info| handlePacket original LOGIN_SUCCESS after -- all settings loaded 
+220205 103804.002|INFO|Thread-6|info|handlePacket end Packet[LOGIN_SUCCESS] #7 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+220205 103804.002|INFO|Thread-6|info| receiveObject(S) end   got Packet[LOGIN_SUCCESS] #7 SERVER0 @ site 1 -> ADMINISTRATOR1 @ site 1
+220205 103829.959|INFO|Thread-7|info| receiveObject(S) start got Packet[ESTABLISHED_CONNECTION] #9 SERVER0 @ site 1 -> SERVER0 @ site 0
+220205 103829.987|INFO|Thread-7|dumpPacket|Packet ESTABLISHED_CONNECTION (Seq #9, o#9 ) recieveObject
+220205 103829.988|INFO|Thread-7|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-A2FRFRN @ 192.168.10.112) (Contest Id: Default--4957759304671347839)
+220205 103829.989|INFO|Thread-7|dumpPacket|    To: SERVER0 @ site 0
+220205 103829.991|INFO|Thread-7|dumpPacket|   key: CONNECTION_HANDLE_ID is: edu.csus.ecs.pc2.core.transport.ConnectionHandlerID Socket[addr=/127.0.0.1,port=59420,localport=50002]--6800894592305484439
+220205 103829.991|INFO|Thread-7|info|handlePacket start Packet[ESTABLISHED_CONNECTION] #9 SERVER0 @ site 1 -> SERVER0 @ site 0
+220205 103829.991|INFO|Thread-7|dumpPacket|Packet ESTABLISHED_CONNECTION (Seq #9, o#9 ) handlePacket
+220205 103829.992|INFO|Thread-7|dumpPacket|  From: SERVER0 @ site 1, oSERVER0 @ site 1 (DESKTOP-A2FRFRN @ 192.168.10.112) (Contest Id: Default--4957759304671347839)
+220205 103829.992|INFO|Thread-7|dumpPacket|    To: SERVER0 @ site 0
+220205 103829.992|INFO|Thread-7|dumpPacket|   key: CONNECTION_HANDLE_ID is: edu.csus.ecs.pc2.core.transport.ConnectionHandlerID Socket[addr=/127.0.0.1,port=59420,localport=50002]--6800894592305484439
+220205 103829.992|INFO|Thread-7|info| receiveObject(S) end   got Packet[ESTABLISHED_CONNECTION] #9 SERVER0 @ site 1 -> SERVER0 @ site 0

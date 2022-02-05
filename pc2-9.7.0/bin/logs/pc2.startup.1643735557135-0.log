@@ -1,0 +1,39 @@
+220201 221237.231|CONFIG|main|setFileHandlers|Now logging to D:\pc2-9.7.0-6181\pc2-9.7.0\bin\logs directory.
+220201 221237.233|INFO|main|info|
+220201 221237.238|INFO|main|info|Version 9.7.0 20210317 (Wednesday, March 17th 2021 06:30 UTC) Java ver 1.8.0_311 build 6181 Windows 10 10.0 (amd64) 
+220201 221237.239|INFO|main|startLog|Working directory is D:\pc2-9.7.0-6181\pc2-9.7.0\bin
+220201 221237.256|INFO|main|startLog|Process id is 6732@DESKTOP-A2FRFRN
+220201 221237.256|INFO|main|start|Starting ConnectionManager...
+220201 221237.573|INFO|main|start|Started ConnectionManager
+220201 221237.576|INFO|main|setClientServerAndPort|INIFile File location: file:/D:/pc2-9.7.0-6181/pc2-9.7.0/bin/pc2v9.ini
+220201 221237.577|INFO|main|setClientServerAndPort|setClientServerAndPort 192.168.247.135 parsed as 192.168.247.135 port 50002
+220201 221237.579|INFO|main|info|Contacting server at 192.168.247.135:50002
+220201 221237.579|INFO|main|connectToMyServer|Connecting to 192.168.247.135:50002
+220201 221237.859|INFO|Thread-1|receiveUnencrypted|receiveUnencrypted(TransportWrapper, ConnectionHandlerID=Socket[addr=/192.168.247.135,port=50002,localport=49523]--2290144606981146742)
+220201 221237.965|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): searching for image file 'images/PC2Logo.png' in jar files
+220201 221237.966|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/PC2Logo.png' at URL 'jar:file:/D:/pc2-9.7.0-6181/pc2-9.7.0/lib/pc2.jar!/images/PC2Logo.png'
+220201 221237.967|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/PC2Logo.png'; verifying checksum
+220201 221238.286|INFO|Thread-1|receiveUnencrypted|receiveUnencrypted Made a secret key for Socket[addr=/192.168.247.135,port=50002,localport=49523]--2290144606981146742 key is com.sun.crypto.provider.DESKey@1807e
+220201 221238.286|INFO|Thread-1|getPublicKeyPacket|Generating Unencrypted Public Key Packet
+220201 221238.287|INFO|Thread-1|getPublicKeyPacket|checking key:= SunJCE Diffie-Hellman Public Key:
+y:
+    9961e6cd 88cc9af1 8ac7ec8b 66d99766 4bc493a2 eda142a5 52105322 a0e14fd1
+    1133c9c0 efff6136 91753755 b25242fb a7a89569 9e1d9d72 647205c3 699c16d1
+    8662ba92 98d08e2d 4ff42a94 5f43ae34 f99772bf c2aa7f5f 9276853d 07661cc5
+    900f6576 80a06a3f 804c3635 9f036069 781819c7 e7cfe610 0acf8f5f 538f94c3
+p:
+    f488fd58 4e49dbcd 20b49de4 9107366b 336c380d 451d0f7c 88b31c7c 5b2d8ef6
+    f3c923c0 43f0a55b 188d8ebb 558cb85d 38d334fd 7c175743 a31d186c de33212c
+    b52aff3c e1b12940 18118d7c 84a70a72 d686c403 19c80729 7aca950c d9969fab
+    d00a509b 0246d308 3d66a45d 419f9c7c bd894b22 1926baab a25ec355 e92f78c7
+g:
+    02
+l:
+    512
+220201 221238.288|INFO|Thread-1|getPublicKeyPacket|packet:= edu.csus.ecs.pc2.core.transport.TransportWrapper@2d7c888e
+220201 221238.533|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): searching for image file 'images/csus_logo.png' in jar files
+220201 221238.534|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/csus_logo.png' at URL 'jar:file:/D:/pc2-9.7.0-6181/pc2-9.7.0/lib/pc2.jar!/images/csus_logo.png'
+220201 221238.534|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/csus_logo.png'; verifying checksum
+220201 221238.540|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): searching for image file 'images/ICPCWebMast_small.png' in jar files
+220201 221238.541|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/ICPCWebMast_small.png' at URL 'jar:file:/D:/pc2-9.7.0-6181/pc2-9.7.0/lib/pc2.jar!/images/ICPCWebMast_small.png'
+220201 221238.541|FINER|main|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/ICPCWebMast_small.png'; verifying checksum

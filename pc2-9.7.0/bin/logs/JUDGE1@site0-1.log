@@ -1,0 +1,10 @@
+220205 124057.525|CONFIG|AWT-EventQueue-0|setFileHandlers|Now logging to D:\pc2-9.7.0-6181\pc2-9.7.0\bin\logs directory.
+220205 124057.526|INFO|AWT-EventQueue-0|info|
+220205 124057.526|INFO|AWT-EventQueue-0|info|Version 9.7.0 20210317 (Wednesday, March 17th 2021 06:30 UTC) Java ver 1.8.0_311 build 6181 Windows 10 10.0 (amd64) 
+220205 124057.526|INFO|AWT-EventQueue-0|info|Login: judge1 (aka judge1)
+220205 124057.528|INFO|AWT-EventQueue-0|startLog|Working directory is D:\pc2-9.7.0-6181\pc2-9.7.0\bin
+220205 124057.529|INFO|AWT-EventQueue-0|startLog|Process id is 7220@DESKTOP-A2FRFRN
+220205 124057.529|INFO|AWT-EventQueue-0|info|Contacting server at localhost:50002 as JUDGE1 @ site 0
+220205 124057.529|INFO|AWT-EventQueue-0|info|sendLoginRequest start - sending from JUDGE1 @ site 0
+220205 124057.530|INFO|AWT-EventQueue-0|sendToLocalServer|Sending packet to server Packet[LOGIN_REQUEST] #4 JUDGE1 @ site 0 -> SERVER0 @ site 0
+220205 124057.530|INFO|AWT-EventQueue-0|sendToLocalServer|Sent    packet to server Packet[LOGIN_REQUEST] #4 JUDGE1 @ site 0 -> SERVER0 @ site 0

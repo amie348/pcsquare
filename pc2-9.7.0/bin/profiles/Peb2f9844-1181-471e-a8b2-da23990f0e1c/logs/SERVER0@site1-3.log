@@ -1,0 +1,14 @@
+220111 235233.375|CONFIG|AWT-EventQueue-0|setFileHandlers|Now logging to D:\pc2-9.7.0-6181\pc2-9.7.0\bin\profiles\Peb2f9844-1181-471e-a8b2-da23990f0e1c\logs directory.
+220111 235233.375|INFO|AWT-EventQueue-0|info|
+220111 235233.376|INFO|AWT-EventQueue-0|info|Version 9.7.0 20210317 (Wednesday, March 17th 2021 06:30 UTC) Java ver 1.8.0_311 build 6181 Windows 10 10.0 (amd64) 
+220111 235233.376|INFO|AWT-EventQueue-0|info|Login: server0 (aka server0)
+220111 235233.376|INFO|AWT-EventQueue-0|startLog|Working directory is D:\pc2-9.7.0-6181\pc2-9.7.0\bin
+220111 235233.377|INFO|AWT-EventQueue-0|startLog|Process id is 6040@DESKTOP-A2FRFRN
+220111 235233.377|INFO|AWT-EventQueue-0|info|Attempting to load UI class edu.csus.ecs.pc2.ui.server.ServerView
+220111 235233.418|INFO|AWT-EventQueue-0|info|Loaded UI class edu.csus.ecs.pc2.ui.server.ServerView
+220111 235233.616|FINER|AWT-EventQueue-0|info|FrameUtilities.loadAndVerifyImageFile(): searching for image file 'images/PC2Logo.png' in jar files
+220111 235233.617|FINER|AWT-EventQueue-0|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/PC2Logo.png' at URL 'jar:file:/D:/pc2-9.7.0-6181/pc2-9.7.0/lib/pc2.jar!/images/PC2Logo.png'
+220111 235233.617|FINER|AWT-EventQueue-0|info|FrameUtilities.loadAndVerifyImageFile(): found image file 'images/PC2Logo.png'; verifying checksum
+220111 235233.738|INFO|AWT-EventQueue-0|info|Using Profile: Default @ profiles\Peb2f9844-1181-471e-a8b2-da23990f0e1c
+220111 235307.715|INFO|AWT-EventQueue-0|promptAndExit|Reports Generated to profiles\Peb2f9844-1181-471e-a8b2-da23990f0e1c\reports
+220111 235307.716|INFO|AWT-EventQueue-0|promptAndExit|Server 1 halted
